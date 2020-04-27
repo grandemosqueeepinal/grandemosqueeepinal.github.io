@@ -1,0 +1,87 @@
+{
+    "UTH": [
+        {
+            "indexayat": "6226",
+            "sourate": "113",
+            "numeroaya": "1",
+            "verset": "\u0628\u0650\u0633\u0652\u0645\u0650 \u0627\u0644\u0644\u0651\u064e\u0647\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0652\u0645\u064e\u0670\u0646\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u0650 \u0642\u064f\u0644\u0652 \u0623\u064e\u0639\u064f\u0648\u0630\u064f \u0628\u0650\u0631\u064e\u0628\u0651\u0650 \u0627\u0644\u0652\u0641\u064e\u0644\u064e\u0642\u0650",
+            "urlhusary": "data\/Husary_64kbps\/113001.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/113_1.png"
+        },
+        {
+            "indexayat": "6227",
+            "sourate": "113",
+            "numeroaya": "2",
+            "verset": "\u0645\u0650\u0646 \u0634\u064e\u0631\u0651\u0650 \u0645\u064e\u0627 \u062e\u064e\u0644\u064e\u0642\u064e",
+            "urlhusary": "data\/Husary_64kbps\/113002.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/113_2.png"
+        },
+        {
+            "indexayat": "6228",
+            "sourate": "113",
+            "numeroaya": "3",
+            "verset": "\u0648\u064e\u0645\u0650\u0646 \u0634\u064e\u0631\u0651\u0650 \u063a\u064e\u0627\u0633\u0650\u0642\u064d \u0625\u0650\u0630\u064e\u0627 \u0648\u064e\u0642\u064e\u0628\u064e",
+            "urlhusary": "data\/Husary_64kbps\/113003.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/113_3.png"
+        },
+        {
+            "indexayat": "6229",
+            "sourate": "113",
+            "numeroaya": "4",
+            "verset": "\u0648\u064e\u0645\u0650\u0646 \u0634\u064e\u0631\u0651\u0650 \u0627\u0644\u0646\u0651\u064e\u0641\u0651\u064e\u0627\u062b\u064e\u0627\u062a\u0650 \u0641\u0650\u064a \u0627\u0644\u0652\u0639\u064f\u0642\u064e\u062f\u0650",
+            "urlhusary": "data\/Husary_64kbps\/113004.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/113_4.png"
+        },
+        {
+            "indexayat": "6230",
+            "sourate": "113",
+            "numeroaya": "5",
+            "verset": "\u0648\u064e\u0645\u0650\u0646 \u0634\u064e\u0631\u0651\u0650 \u062d\u064e\u0627\u0633\u0650\u062f\u064d \u0625\u0650\u0630\u064e\u0627 \u062d\u064e\u0633\u064e\u062f\u064e",
+            "urlhusary": "data\/Husary_64kbps\/113005.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/113_5.png"
+        }
+    ],
+    "FR": [
+        {
+            "indexayat": "6226",
+            "sourate": "113",
+            "numeroaya": "1",
+            "verset": "Dis: &laquo;Je cherche protection aupr&egrave;s du Seigneur de l&apos;aube naissante,",
+            "urlhusary": "data\/Husary_64kbps\/113001.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/113_1.png"
+        },
+        {
+            "indexayat": "6227",
+            "sourate": "113",
+            "numeroaya": "2",
+            "verset": "contre le mal des &ecirc;tres qu&apos;Il a cr&eacute;&eacute;s,",
+            "urlhusary": "data\/Husary_64kbps\/113002.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/113_2.png"
+        },
+        {
+            "indexayat": "6228",
+            "sourate": "113",
+            "numeroaya": "3",
+            "verset": "contre le mal de l&apos;obscurit&eacute; quand elle s&apos;approfondit,",
+            "urlhusary": "data\/Husary_64kbps\/113003.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/113_3.png"
+        },
+        {
+            "indexayat": "6229",
+            "sourate": "113",
+            "numeroaya": "4",
+            "verset": "contre le mal de celles qui soufflent [les sorci&egrave;res] sur les n&oelig;uds,",
+            "urlhusary": "data\/Husary_64kbps\/113004.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/113_4.png"
+        },
+        {
+            "indexayat": "6230",
+            "sourate": "113",
+            "numeroaya": "5",
+            "verset": "et contre le mal de l&apos;envieux quand il envie&raquo;.",
+            "urlhusary": "data\/Husary_64kbps\/113005.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/113_5.png"
+        }
+    ],
+    "count": 5
+}

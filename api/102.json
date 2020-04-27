@@ -1,0 +1,135 @@
+{
+    "UTH": [
+        {
+            "indexayat": "6169",
+            "sourate": "102",
+            "numeroaya": "1",
+            "verset": "\u0628\u0650\u0633\u0652\u0645\u0650 \u0627\u0644\u0644\u0651\u064e\u0647\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0652\u0645\u064e\u0670\u0646\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u0650 \u0623\u064e\u0644\u0652\u0647\u064e\u0627\u0643\u064f\u0645\u064f \u0627\u0644\u062a\u0651\u064e\u0643\u064e\u0627\u062b\u064f\u0631\u064f",
+            "urlhusary": "data\/Husary_64kbps\/102001.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/102_1.png"
+        },
+        {
+            "indexayat": "6170",
+            "sourate": "102",
+            "numeroaya": "2",
+            "verset": "\u062d\u064e\u062a\u0651\u064e\u0649\u0670 \u0632\u064f\u0631\u0652\u062a\u064f\u0645\u064f \u0627\u0644\u0652\u0645\u064e\u0642\u064e\u0627\u0628\u0650\u0631\u064e",
+            "urlhusary": "data\/Husary_64kbps\/102002.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/102_2.png"
+        },
+        {
+            "indexayat": "6171",
+            "sourate": "102",
+            "numeroaya": "3",
+            "verset": "\u0643\u064e\u0644\u0651\u064e\u0627 \u0633\u064e\u0648\u0652\u0641\u064e \u062a\u064e\u0639\u0652\u0644\u064e\u0645\u064f\u0648\u0646\u064e",
+            "urlhusary": "data\/Husary_64kbps\/102003.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/102_3.png"
+        },
+        {
+            "indexayat": "6172",
+            "sourate": "102",
+            "numeroaya": "4",
+            "verset": "\u062b\u064f\u0645\u0651\u064e \u0643\u064e\u0644\u0651\u064e\u0627 \u0633\u064e\u0648\u0652\u0641\u064e \u062a\u064e\u0639\u0652\u0644\u064e\u0645\u064f\u0648\u0646\u064e",
+            "urlhusary": "data\/Husary_64kbps\/102004.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/102_4.png"
+        },
+        {
+            "indexayat": "6173",
+            "sourate": "102",
+            "numeroaya": "5",
+            "verset": "\u0643\u064e\u0644\u0651\u064e\u0627 \u0644\u064e\u0648\u0652 \u062a\u064e\u0639\u0652\u0644\u064e\u0645\u064f\u0648\u0646\u064e \u0639\u0650\u0644\u0652\u0645\u064e \u0627\u0644\u0652\u064a\u064e\u0642\u0650\u064a\u0646\u0650",
+            "urlhusary": "data\/Husary_64kbps\/102005.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/102_5.png"
+        },
+        {
+            "indexayat": "6174",
+            "sourate": "102",
+            "numeroaya": "6",
+            "verset": "\u0644\u064e\u062a\u064e\u0631\u064e\u0648\u064f\u0646\u0651\u064e \u0627\u0644\u0652\u062c\u064e\u062d\u0650\u064a\u0645\u064e",
+            "urlhusary": "data\/Husary_64kbps\/102006.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/102_6.png"
+        },
+        {
+            "indexayat": "6175",
+            "sourate": "102",
+            "numeroaya": "7",
+            "verset": "\u062b\u064f\u0645\u0651\u064e \u0644\u064e\u062a\u064e\u0631\u064e\u0648\u064f\u0646\u0651\u064e\u0647\u064e\u0627 \u0639\u064e\u064a\u0652\u0646\u064e \u0627\u0644\u0652\u064a\u064e\u0642\u0650\u064a\u0646\u0650",
+            "urlhusary": "data\/Husary_64kbps\/102007.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/102_7.png"
+        },
+        {
+            "indexayat": "6176",
+            "sourate": "102",
+            "numeroaya": "8",
+            "verset": "\u062b\u064f\u0645\u0651\u064e \u0644\u064e\u062a\u064f\u0633\u0652\u0623\u064e\u0644\u064f\u0646\u0651\u064e \u064a\u064e\u0648\u0652\u0645\u064e\u0626\u0650\u0630\u064d \u0639\u064e\u0646\u0650 \u0627\u0644\u0646\u0651\u064e\u0639\u0650\u064a\u0645\u0650",
+            "urlhusary": "data\/Husary_64kbps\/102008.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/102_8.png"
+        }
+    ],
+    "FR": [
+        {
+            "indexayat": "6169",
+            "sourate": "102",
+            "numeroaya": "1",
+            "verset": "La course aux richesses vous distrait,",
+            "urlhusary": "data\/Husary_64kbps\/102001.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/102_1.png"
+        },
+        {
+            "indexayat": "6170",
+            "sourate": "102",
+            "numeroaya": "2",
+            "verset": "jusqu&apos;&agrave; ce que vous visitiez les tombes.",
+            "urlhusary": "data\/Husary_64kbps\/102002.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/102_2.png"
+        },
+        {
+            "indexayat": "6171",
+            "sourate": "102",
+            "numeroaya": "3",
+            "verset": "Mais non! Vous saurez bient&ocirc;t!",
+            "urlhusary": "data\/Husary_64kbps\/102003.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/102_3.png"
+        },
+        {
+            "indexayat": "6172",
+            "sourate": "102",
+            "numeroaya": "4",
+            "verset": "(Encore une fois)! Vous saurez bient&ocirc;t!",
+            "urlhusary": "data\/Husary_64kbps\/102004.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/102_4.png"
+        },
+        {
+            "indexayat": "6173",
+            "sourate": "102",
+            "numeroaya": "5",
+            "verset": "S&ucirc;rement! Si vous saviez de science certaine.",
+            "urlhusary": "data\/Husary_64kbps\/102005.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/102_5.png"
+        },
+        {
+            "indexayat": "6174",
+            "sourate": "102",
+            "numeroaya": "6",
+            "verset": "Vous verrez, certes, la Fournaise.",
+            "urlhusary": "data\/Husary_64kbps\/102006.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/102_6.png"
+        },
+        {
+            "indexayat": "6175",
+            "sourate": "102",
+            "numeroaya": "7",
+            "verset": "Puis, vous la verrez certes, avec l&apos;&oelig;il de la certitude.",
+            "urlhusary": "data\/Husary_64kbps\/102007.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/102_7.png"
+        },
+        {
+            "indexayat": "6176",
+            "sourate": "102",
+            "numeroaya": "8",
+            "verset": "Puis, assur&eacute;ment, vous serez interrog&eacute;s, ce jour-l&agrave;, sur les d&eacute;lices.",
+            "urlhusary": "data\/Husary_64kbps\/102008.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/102_8.png"
+        }
+    ],
+    "count": 8
+}

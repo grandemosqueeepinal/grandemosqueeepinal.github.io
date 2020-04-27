@@ -1,0 +1,87 @@
+{
+    "UTH": [
+        {
+            "indexayat": "6189",
+            "sourate": "105",
+            "numeroaya": "1",
+            "verset": "\u0628\u0650\u0633\u0652\u0645\u0650 \u0627\u0644\u0644\u0651\u064e\u0647\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0652\u0645\u064e\u0670\u0646\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u0650 \u0623\u064e\u0644\u064e\u0645\u0652 \u062a\u064e\u0631\u064e \u0643\u064e\u064a\u0652\u0641\u064e \u0641\u064e\u0639\u064e\u0644\u064e \u0631\u064e\u0628\u0651\u064f\u0643\u064e \u0628\u0650\u0623\u064e\u0635\u0652\u062d\u064e\u0627\u0628\u0650 \u0627\u0644\u0652\u0641\u0650\u064a\u0644\u0650",
+            "urlhusary": "data\/Husary_64kbps\/105001.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/105_1.png"
+        },
+        {
+            "indexayat": "6190",
+            "sourate": "105",
+            "numeroaya": "2",
+            "verset": "\u0623\u064e\u0644\u064e\u0645\u0652 \u064a\u064e\u062c\u0652\u0639\u064e\u0644\u0652 \u0643\u064e\u064a\u0652\u062f\u064e\u0647\u064f\u0645\u0652 \u0641\u0650\u064a \u062a\u064e\u0636\u0652\u0644\u0650\u064a\u0644\u064d",
+            "urlhusary": "data\/Husary_64kbps\/105002.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/105_2.png"
+        },
+        {
+            "indexayat": "6191",
+            "sourate": "105",
+            "numeroaya": "3",
+            "verset": "\u0648\u064e\u0623\u064e\u0631\u0652\u0633\u064e\u0644\u064e \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650\u0645\u0652 \u0637\u064e\u064a\u0652\u0631\u064b\u0627 \u0623\u064e\u0628\u064e\u0627\u0628\u0650\u064a\u0644\u064e",
+            "urlhusary": "data\/Husary_64kbps\/105003.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/105_3.png"
+        },
+        {
+            "indexayat": "6192",
+            "sourate": "105",
+            "numeroaya": "4",
+            "verset": "\u062a\u064e\u0631\u0652\u0645\u0650\u064a\u0647\u0650\u0645 \u0628\u0650\u062d\u0650\u062c\u064e\u0627\u0631\u064e\u0629\u064d \u0645\u0651\u0650\u0646 \u0633\u0650\u062c\u0651\u0650\u064a\u0644\u064d",
+            "urlhusary": "data\/Husary_64kbps\/105004.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/105_4.png"
+        },
+        {
+            "indexayat": "6193",
+            "sourate": "105",
+            "numeroaya": "5",
+            "verset": "\u0641\u064e\u062c\u064e\u0639\u064e\u0644\u064e\u0647\u064f\u0645\u0652 \u0643\u064e\u0639\u064e\u0635\u0652\u0641\u064d \u0645\u0651\u064e\u0623\u0652\u0643\u064f\u0648\u0644\u064d",
+            "urlhusary": "data\/Husary_64kbps\/105005.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/105_5.png"
+        }
+    ],
+    "FR": [
+        {
+            "indexayat": "6189",
+            "sourate": "105",
+            "numeroaya": "1",
+            "verset": "N&apos;as-tu pas vu comment ton Seigneur a agi envers les gens de l&apos;El&eacute;phant?",
+            "urlhusary": "data\/Husary_64kbps\/105001.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/105_1.png"
+        },
+        {
+            "indexayat": "6190",
+            "sourate": "105",
+            "numeroaya": "2",
+            "verset": "N&apos;a-t-Il pas rendu leur ruse compl&egrave;tement vaine?",
+            "urlhusary": "data\/Husary_64kbps\/105002.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/105_2.png"
+        },
+        {
+            "indexayat": "6191",
+            "sourate": "105",
+            "numeroaya": "3",
+            "verset": "et envoy&eacute; sur eux des oiseaux par vol&eacute;es",
+            "urlhusary": "data\/Husary_64kbps\/105003.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/105_3.png"
+        },
+        {
+            "indexayat": "6192",
+            "sourate": "105",
+            "numeroaya": "4",
+            "verset": "qui leur lan&ccedil;aient des pierres d&apos;argile?",
+            "urlhusary": "data\/Husary_64kbps\/105004.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/105_4.png"
+        },
+        {
+            "indexayat": "6193",
+            "sourate": "105",
+            "numeroaya": "5",
+            "verset": "Et Il les a rendus semblables &agrave; une paille m&acirc;ch&eacute;e.",
+            "urlhusary": "data\/Husary_64kbps\/105005.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/105_5.png"
+        }
+    ],
+    "count": 5
+}

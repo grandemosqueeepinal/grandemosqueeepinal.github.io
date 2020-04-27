@@ -1,0 +1,183 @@
+{
+    "UTH": [
+        {
+            "indexayat": "6158",
+            "sourate": "101",
+            "numeroaya": "1",
+            "verset": "\u0628\u0650\u0633\u0652\u0645\u0650 \u0627\u0644\u0644\u0651\u064e\u0647\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0652\u0645\u064e\u0670\u0646\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u0650 \u0627\u0644\u0652\u0642\u064e\u0627\u0631\u0650\u0639\u064e\u0629\u064f",
+            "urlhusary": "data\/Husary_64kbps\/101001.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/101_1.png"
+        },
+        {
+            "indexayat": "6159",
+            "sourate": "101",
+            "numeroaya": "2",
+            "verset": "\u0645\u064e\u0627 \u0627\u0644\u0652\u0642\u064e\u0627\u0631\u0650\u0639\u064e\u0629\u064f",
+            "urlhusary": "data\/Husary_64kbps\/101002.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/101_2.png"
+        },
+        {
+            "indexayat": "6160",
+            "sourate": "101",
+            "numeroaya": "3",
+            "verset": "\u0648\u064e\u0645\u064e\u0627 \u0623\u064e\u062f\u0652\u0631\u064e\u0627\u0643\u064e \u0645\u064e\u0627 \u0627\u0644\u0652\u0642\u064e\u0627\u0631\u0650\u0639\u064e\u0629\u064f",
+            "urlhusary": "data\/Husary_64kbps\/101003.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/101_3.png"
+        },
+        {
+            "indexayat": "6161",
+            "sourate": "101",
+            "numeroaya": "4",
+            "verset": "\u064a\u064e\u0648\u0652\u0645\u064e \u064a\u064e\u0643\u064f\u0648\u0646\u064f \u0627\u0644\u0646\u0651\u064e\u0627\u0633\u064f \u0643\u064e\u0627\u0644\u0652\u0641\u064e\u0631\u064e\u0627\u0634\u0650 \u0627\u0644\u0652\u0645\u064e\u0628\u0652\u062b\u064f\u0648\u062b\u0650",
+            "urlhusary": "data\/Husary_64kbps\/101004.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/101_4.png"
+        },
+        {
+            "indexayat": "6162",
+            "sourate": "101",
+            "numeroaya": "5",
+            "verset": "\u0648\u064e\u062a\u064e\u0643\u064f\u0648\u0646\u064f \u0627\u0644\u0652\u062c\u0650\u0628\u064e\u0627\u0644\u064f \u0643\u064e\u0627\u0644\u0652\u0639\u0650\u0647\u0652\u0646\u0650 \u0627\u0644\u0652\u0645\u064e\u0646\u0641\u064f\u0648\u0634\u0650",
+            "urlhusary": "data\/Husary_64kbps\/101005.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/101_5.png"
+        },
+        {
+            "indexayat": "6163",
+            "sourate": "101",
+            "numeroaya": "6",
+            "verset": "\u0641\u064e\u0623\u064e\u0645\u0651\u064e\u0627 \u0645\u064e\u0646 \u062b\u064e\u0642\u064f\u0644\u064e\u062a\u0652 \u0645\u064e\u0648\u064e\u0627\u0632\u0650\u064a\u0646\u064f\u0647\u064f",
+            "urlhusary": "data\/Husary_64kbps\/101006.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/101_6.png"
+        },
+        {
+            "indexayat": "6164",
+            "sourate": "101",
+            "numeroaya": "7",
+            "verset": "\u0641\u064e\u0647\u064f\u0648\u064e \u0641\u0650\u064a \u0639\u0650\u064a\u0634\u064e\u0629\u064d \u0631\u0651\u064e\u0627\u0636\u0650\u064a\u064e\u0629\u064d",
+            "urlhusary": "data\/Husary_64kbps\/101007.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/101_7.png"
+        },
+        {
+            "indexayat": "6165",
+            "sourate": "101",
+            "numeroaya": "8",
+            "verset": "\u0648\u064e\u0623\u064e\u0645\u0651\u064e\u0627 \u0645\u064e\u0646\u0652 \u062e\u064e\u0641\u0651\u064e\u062a\u0652 \u0645\u064e\u0648\u064e\u0627\u0632\u0650\u064a\u0646\u064f\u0647\u064f",
+            "urlhusary": "data\/Husary_64kbps\/101008.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/101_8.png"
+        },
+        {
+            "indexayat": "6166",
+            "sourate": "101",
+            "numeroaya": "9",
+            "verset": "\u0641\u064e\u0623\u064f\u0645\u0651\u064f\u0647\u064f \u0647\u064e\u0627\u0648\u0650\u064a\u064e\u0629\u064c",
+            "urlhusary": "data\/Husary_64kbps\/101009.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/101_9.png"
+        },
+        {
+            "indexayat": "6167",
+            "sourate": "101",
+            "numeroaya": "10",
+            "verset": "\u0648\u064e\u0645\u064e\u0627 \u0623\u064e\u062f\u0652\u0631\u064e\u0627\u0643\u064e \u0645\u064e\u0627 \u0647\u0650\u064a\u064e\u0647\u0652",
+            "urlhusary": "data\/Husary_64kbps\/101010.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/101_10.png"
+        },
+        {
+            "indexayat": "6168",
+            "sourate": "101",
+            "numeroaya": "11",
+            "verset": "\u0646\u064e\u0627\u0631\u064c \u062d\u064e\u0627\u0645\u0650\u064a\u064e\u0629\u064c",
+            "urlhusary": "data\/Husary_64kbps\/101011.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/101_11.png"
+        }
+    ],
+    "FR": [
+        {
+            "indexayat": "6158",
+            "sourate": "101",
+            "numeroaya": "1",
+            "verset": "Le fracas!",
+            "urlhusary": "data\/Husary_64kbps\/101001.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/101_1.png"
+        },
+        {
+            "indexayat": "6159",
+            "sourate": "101",
+            "numeroaya": "2",
+            "verset": "Qu&apos;est-ce que le fracas?",
+            "urlhusary": "data\/Husary_64kbps\/101002.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/101_2.png"
+        },
+        {
+            "indexayat": "6160",
+            "sourate": "101",
+            "numeroaya": "3",
+            "verset": "Et qui te dira ce qu&apos;est le fracas?",
+            "urlhusary": "data\/Husary_64kbps\/101003.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/101_3.png"
+        },
+        {
+            "indexayat": "6161",
+            "sourate": "101",
+            "numeroaya": "4",
+            "verset": "C&apos;est le jour o&ugrave; les gens seront comme des papillons &eacute;parpill&eacute;s,",
+            "urlhusary": "data\/Husary_64kbps\/101004.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/101_4.png"
+        },
+        {
+            "indexayat": "6162",
+            "sourate": "101",
+            "numeroaya": "5",
+            "verset": "et les montagnes comme de la laine card&eacute;e;",
+            "urlhusary": "data\/Husary_64kbps\/101005.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/101_5.png"
+        },
+        {
+            "indexayat": "6163",
+            "sourate": "101",
+            "numeroaya": "6",
+            "verset": "quant &agrave; celui dont la balance sera lourde",
+            "urlhusary": "data\/Husary_64kbps\/101006.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/101_6.png"
+        },
+        {
+            "indexayat": "6164",
+            "sourate": "101",
+            "numeroaya": "7",
+            "verset": "il sera dans une vie agr&eacute;able;",
+            "urlhusary": "data\/Husary_64kbps\/101007.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/101_7.png"
+        },
+        {
+            "indexayat": "6165",
+            "sourate": "101",
+            "numeroaya": "8",
+            "verset": "et quant &agrave; celui dont la balance sera l&eacute;g&egrave;re,",
+            "urlhusary": "data\/Husary_64kbps\/101008.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/101_8.png"
+        },
+        {
+            "indexayat": "6166",
+            "sourate": "101",
+            "numeroaya": "9",
+            "verset": "sa m&egrave;re [destination] est un ab&icirc;me tr&egrave;s profond.",
+            "urlhusary": "data\/Husary_64kbps\/101009.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/101_9.png"
+        },
+        {
+            "indexayat": "6167",
+            "sourate": "101",
+            "numeroaya": "10",
+            "verset": "Et qui te dira ce que c&apos;est?",
+            "urlhusary": "data\/Husary_64kbps\/101010.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/101_10.png"
+        },
+        {
+            "indexayat": "6168",
+            "sourate": "101",
+            "numeroaya": "11",
+            "verset": "C&apos;est un Feu ardent.",
+            "urlhusary": "data\/Husary_64kbps\/101011.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/101_11.png"
+        }
+    ],
+    "count": 11
+}

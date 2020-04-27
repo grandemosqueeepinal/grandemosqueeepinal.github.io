@@ -1,0 +1,967 @@
+{
+    "UTH": [
+        {
+            "indexayat": "4676",
+            "sourate": "51",
+            "numeroaya": "1",
+            "verset": "\u0628\u0650\u0633\u0652\u0645\u0650 \u0627\u0644\u0644\u0651\u064e\u0647\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0652\u0645\u064e\u0670\u0646\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u0650 \u0648\u064e\u0627\u0644\u0630\u0651\u064e\u0627\u0631\u0650\u064a\u064e\u0627\u062a\u0650 \u0630\u064e\u0631\u0652\u0648\u064b\u0627",
+            "urlhusary": "data\/Husary_64kbps\/051001.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_1.png"
+        },
+        {
+            "indexayat": "4677",
+            "sourate": "51",
+            "numeroaya": "2",
+            "verset": "\u0641\u064e\u0627\u0644\u0652\u062d\u064e\u0627\u0645\u0650\u0644\u064e\u0627\u062a\u0650 \u0648\u0650\u0642\u0652\u0631\u064b\u0627",
+            "urlhusary": "data\/Husary_64kbps\/051002.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_2.png"
+        },
+        {
+            "indexayat": "4678",
+            "sourate": "51",
+            "numeroaya": "3",
+            "verset": "\u0641\u064e\u0627\u0644\u0652\u062c\u064e\u0627\u0631\u0650\u064a\u064e\u0627\u062a\u0650 \u064a\u064f\u0633\u0652\u0631\u064b\u0627",
+            "urlhusary": "data\/Husary_64kbps\/051003.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_3.png"
+        },
+        {
+            "indexayat": "4679",
+            "sourate": "51",
+            "numeroaya": "4",
+            "verset": "\u0641\u064e\u0627\u0644\u0652\u0645\u064f\u0642\u064e\u0633\u0651\u0650\u0645\u064e\u0627\u062a\u0650 \u0623\u064e\u0645\u0652\u0631\u064b\u0627",
+            "urlhusary": "data\/Husary_64kbps\/051004.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_4.png"
+        },
+        {
+            "indexayat": "4680",
+            "sourate": "51",
+            "numeroaya": "5",
+            "verset": "\u0625\u0650\u0646\u0651\u064e\u0645\u064e\u0627 \u062a\u064f\u0648\u0639\u064e\u062f\u064f\u0648\u0646\u064e \u0644\u064e\u0635\u064e\u0627\u062f\u0650\u0642\u064c",
+            "urlhusary": "data\/Husary_64kbps\/051005.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_5.png"
+        },
+        {
+            "indexayat": "4681",
+            "sourate": "51",
+            "numeroaya": "6",
+            "verset": "\u0648\u064e\u0625\u0650\u0646\u0651\u064e \u0627\u0644\u062f\u0651\u0650\u064a\u0646\u064e \u0644\u064e\u0648\u064e\u0627\u0642\u0650\u0639\u064c",
+            "urlhusary": "data\/Husary_64kbps\/051006.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_6.png"
+        },
+        {
+            "indexayat": "4682",
+            "sourate": "51",
+            "numeroaya": "7",
+            "verset": "\u0648\u064e\u0627\u0644\u0633\u0651\u064e\u0645\u064e\u0627\u0621\u0650 \u0630\u064e\u0627\u062a\u0650 \u0627\u0644\u0652\u062d\u064f\u0628\u064f\u0643\u0650",
+            "urlhusary": "data\/Husary_64kbps\/051007.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_7.png"
+        },
+        {
+            "indexayat": "4683",
+            "sourate": "51",
+            "numeroaya": "8",
+            "verset": "\u0625\u0650\u0646\u0651\u064e\u0643\u064f\u0645\u0652 \u0644\u064e\u0641\u0650\u064a \u0642\u064e\u0648\u0652\u0644\u064d \u0645\u0651\u064f\u062e\u0652\u062a\u064e\u0644\u0650\u0641\u064d",
+            "urlhusary": "data\/Husary_64kbps\/051008.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_8.png"
+        },
+        {
+            "indexayat": "4684",
+            "sourate": "51",
+            "numeroaya": "9",
+            "verset": "\u064a\u064f\u0624\u0652\u0641\u064e\u0643\u064f \u0639\u064e\u0646\u0652\u0647\u064f \u0645\u064e\u0646\u0652 \u0623\u064f\u0641\u0650\u0643\u064e",
+            "urlhusary": "data\/Husary_64kbps\/051009.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_9.png"
+        },
+        {
+            "indexayat": "4685",
+            "sourate": "51",
+            "numeroaya": "10",
+            "verset": "\u0642\u064f\u062a\u0650\u0644\u064e \u0627\u0644\u0652\u062e\u064e\u0631\u0651\u064e\u0627\u0635\u064f\u0648\u0646\u064e",
+            "urlhusary": "data\/Husary_64kbps\/051010.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_10.png"
+        },
+        {
+            "indexayat": "4686",
+            "sourate": "51",
+            "numeroaya": "11",
+            "verset": "\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0646\u064e \u0647\u064f\u0645\u0652 \u0641\u0650\u064a \u063a\u064e\u0645\u0652\u0631\u064e\u0629\u064d \u0633\u064e\u0627\u0647\u064f\u0648\u0646\u064e",
+            "urlhusary": "data\/Husary_64kbps\/051011.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_11.png"
+        },
+        {
+            "indexayat": "4687",
+            "sourate": "51",
+            "numeroaya": "12",
+            "verset": "\u064a\u064e\u0633\u0652\u0623\u064e\u0644\u064f\u0648\u0646\u064e \u0623\u064e\u064a\u0651\u064e\u0627\u0646\u064e \u064a\u064e\u0648\u0652\u0645\u064f \u0627\u0644\u062f\u0651\u0650\u064a\u0646\u0650",
+            "urlhusary": "data\/Husary_64kbps\/051012.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_12.png"
+        },
+        {
+            "indexayat": "4688",
+            "sourate": "51",
+            "numeroaya": "13",
+            "verset": "\u064a\u064e\u0648\u0652\u0645\u064e \u0647\u064f\u0645\u0652 \u0639\u064e\u0644\u064e\u0649 \u0627\u0644\u0646\u0651\u064e\u0627\u0631\u0650 \u064a\u064f\u0641\u0652\u062a\u064e\u0646\u064f\u0648\u0646\u064e",
+            "urlhusary": "data\/Husary_64kbps\/051013.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_13.png"
+        },
+        {
+            "indexayat": "4689",
+            "sourate": "51",
+            "numeroaya": "14",
+            "verset": "\u0630\u064f\u0648\u0642\u064f\u0648\u0627 \u0641\u0650\u062a\u0652\u0646\u064e\u062a\u064e\u0643\u064f\u0645\u0652 \u0647\u064e\u0670\u0630\u064e\u0627 \u0627\u0644\u0651\u064e\u0630\u0650\u064a \u0643\u064f\u0646\u062a\u064f\u0645 \u0628\u0650\u0647\u0650 \u062a\u064e\u0633\u0652\u062a\u064e\u0639\u0652\u062c\u0650\u0644\u064f\u0648\u0646\u064e",
+            "urlhusary": "data\/Husary_64kbps\/051014.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_14.png"
+        },
+        {
+            "indexayat": "4690",
+            "sourate": "51",
+            "numeroaya": "15",
+            "verset": "\u0625\u0650\u0646\u0651\u064e \u0627\u0644\u0652\u0645\u064f\u062a\u0651\u064e\u0642\u0650\u064a\u0646\u064e \u0641\u0650\u064a \u062c\u064e\u0646\u0651\u064e\u0627\u062a\u064d \u0648\u064e\u0639\u064f\u064a\u064f\u0648\u0646\u064d",
+            "urlhusary": "data\/Husary_64kbps\/051015.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_15.png"
+        },
+        {
+            "indexayat": "4691",
+            "sourate": "51",
+            "numeroaya": "16",
+            "verset": "\u0622\u062e\u0650\u0630\u0650\u064a\u0646\u064e \u0645\u064e\u0627 \u0622\u062a\u064e\u0627\u0647\u064f\u0645\u0652 \u0631\u064e\u0628\u0651\u064f\u0647\u064f\u0645\u0652 \u0625\u0650\u0646\u0651\u064e\u0647\u064f\u0645\u0652 \u0643\u064e\u0627\u0646\u064f\u0648\u0627 \u0642\u064e\u0628\u0652\u0644\u064e \u0630\u064e\u0670\u0644\u0650\u0643\u064e \u0645\u064f\u062d\u0652\u0633\u0650\u0646\u0650\u064a\u0646\u064e",
+            "urlhusary": "data\/Husary_64kbps\/051016.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_16.png"
+        },
+        {
+            "indexayat": "4692",
+            "sourate": "51",
+            "numeroaya": "17",
+            "verset": "\u0643\u064e\u0627\u0646\u064f\u0648\u0627 \u0642\u064e\u0644\u0650\u064a\u0644\u064b\u0627 \u0645\u0651\u0650\u0646\u064e \u0627\u0644\u0644\u0651\u064e\u064a\u0652\u0644\u0650 \u0645\u064e\u0627 \u064a\u064e\u0647\u0652\u062c\u064e\u0639\u064f\u0648\u0646\u064e",
+            "urlhusary": "data\/Husary_64kbps\/051017.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_17.png"
+        },
+        {
+            "indexayat": "4693",
+            "sourate": "51",
+            "numeroaya": "18",
+            "verset": "\u0648\u064e\u0628\u0650\u0627\u0644\u0652\u0623\u064e\u0633\u0652\u062d\u064e\u0627\u0631\u0650 \u0647\u064f\u0645\u0652 \u064a\u064e\u0633\u0652\u062a\u064e\u063a\u0652\u0641\u0650\u0631\u064f\u0648\u0646\u064e",
+            "urlhusary": "data\/Husary_64kbps\/051018.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_18.png"
+        },
+        {
+            "indexayat": "4694",
+            "sourate": "51",
+            "numeroaya": "19",
+            "verset": "\u0648\u064e\u0641\u0650\u064a \u0623\u064e\u0645\u0652\u0648\u064e\u0627\u0644\u0650\u0647\u0650\u0645\u0652 \u062d\u064e\u0642\u0651\u064c \u0644\u0651\u0650\u0644\u0633\u0651\u064e\u0627\u0626\u0650\u0644\u0650 \u0648\u064e\u0627\u0644\u0652\u0645\u064e\u062d\u0652\u0631\u064f\u0648\u0645\u0650",
+            "urlhusary": "data\/Husary_64kbps\/051019.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_19.png"
+        },
+        {
+            "indexayat": "4695",
+            "sourate": "51",
+            "numeroaya": "20",
+            "verset": "\u0648\u064e\u0641\u0650\u064a \u0627\u0644\u0652\u0623\u064e\u0631\u0652\u0636\u0650 \u0622\u064a\u064e\u0627\u062a\u064c \u0644\u0651\u0650\u0644\u0652\u0645\u064f\u0648\u0642\u0650\u0646\u0650\u064a\u0646\u064e",
+            "urlhusary": "data\/Husary_64kbps\/051020.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_20.png"
+        },
+        {
+            "indexayat": "4696",
+            "sourate": "51",
+            "numeroaya": "21",
+            "verset": "\u0648\u064e\u0641\u0650\u064a \u0623\u064e\u0646\u0641\u064f\u0633\u0650\u0643\u064f\u0645\u0652 \u0623\u064e\u0641\u064e\u0644\u064e\u0627 \u062a\u064f\u0628\u0652\u0635\u0650\u0631\u064f\u0648\u0646\u064e",
+            "urlhusary": "data\/Husary_64kbps\/051021.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_21.png"
+        },
+        {
+            "indexayat": "4697",
+            "sourate": "51",
+            "numeroaya": "22",
+            "verset": "\u0648\u064e\u0641\u0650\u064a \u0627\u0644\u0633\u0651\u064e\u0645\u064e\u0627\u0621\u0650 \u0631\u0650\u0632\u0652\u0642\u064f\u0643\u064f\u0645\u0652 \u0648\u064e\u0645\u064e\u0627 \u062a\u064f\u0648\u0639\u064e\u062f\u064f\u0648\u0646\u064e",
+            "urlhusary": "data\/Husary_64kbps\/051022.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_22.png"
+        },
+        {
+            "indexayat": "4698",
+            "sourate": "51",
+            "numeroaya": "23",
+            "verset": "\u0641\u064e\u0648\u064e\u0631\u064e\u0628\u0651\u0650 \u0627\u0644\u0633\u0651\u064e\u0645\u064e\u0627\u0621\u0650 \u0648\u064e\u0627\u0644\u0652\u0623\u064e\u0631\u0652\u0636\u0650 \u0625\u0650\u0646\u0651\u064e\u0647\u064f \u0644\u064e\u062d\u064e\u0642\u0651\u064c \u0645\u0651\u0650\u062b\u0652\u0644\u064e \u0645\u064e\u0627 \u0623\u064e\u0646\u0651\u064e\u0643\u064f\u0645\u0652 \u062a\u064e\u0646\u0637\u0650\u0642\u064f\u0648\u0646\u064e",
+            "urlhusary": "data\/Husary_64kbps\/051023.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_23.png"
+        },
+        {
+            "indexayat": "4699",
+            "sourate": "51",
+            "numeroaya": "24",
+            "verset": "\u0647\u064e\u0644\u0652 \u0623\u064e\u062a\u064e\u0627\u0643\u064e \u062d\u064e\u062f\u0650\u064a\u062b\u064f \u0636\u064e\u064a\u0652\u0641\u0650 \u0625\u0650\u0628\u0652\u0631\u064e\u0627\u0647\u0650\u064a\u0645\u064e \u0627\u0644\u0652\u0645\u064f\u0643\u0652\u0631\u064e\u0645\u0650\u064a\u0646\u064e",
+            "urlhusary": "data\/Husary_64kbps\/051024.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_24.png"
+        },
+        {
+            "indexayat": "4700",
+            "sourate": "51",
+            "numeroaya": "25",
+            "verset": "\u0625\u0650\u0630\u0652 \u062f\u064e\u062e\u064e\u0644\u064f\u0648\u0627 \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650 \u0641\u064e\u0642\u064e\u0627\u0644\u064f\u0648\u0627 \u0633\u064e\u0644\u064e\u0627\u0645\u064b\u0627 \u0642\u064e\u0627\u0644\u064e \u0633\u064e\u0644\u064e\u0627\u0645\u064c \u0642\u064e\u0648\u0652\u0645\u064c \u0645\u0651\u064f\u0646\u0643\u064e\u0631\u064f\u0648\u0646\u064e",
+            "urlhusary": "data\/Husary_64kbps\/051025.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_25.png"
+        },
+        {
+            "indexayat": "4701",
+            "sourate": "51",
+            "numeroaya": "26",
+            "verset": "\u0641\u064e\u0631\u064e\u0627\u063a\u064e \u0625\u0650\u0644\u064e\u0649\u0670 \u0623\u064e\u0647\u0652\u0644\u0650\u0647\u0650 \u0641\u064e\u062c\u064e\u0627\u0621\u064e \u0628\u0650\u0639\u0650\u062c\u0652\u0644\u064d \u0633\u064e\u0645\u0650\u064a\u0646\u064d",
+            "urlhusary": "data\/Husary_64kbps\/051026.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_26.png"
+        },
+        {
+            "indexayat": "4702",
+            "sourate": "51",
+            "numeroaya": "27",
+            "verset": "\u0641\u064e\u0642\u064e\u0631\u0651\u064e\u0628\u064e\u0647\u064f \u0625\u0650\u0644\u064e\u064a\u0652\u0647\u0650\u0645\u0652 \u0642\u064e\u0627\u0644\u064e \u0623\u064e\u0644\u064e\u0627 \u062a\u064e\u0623\u0652\u0643\u064f\u0644\u064f\u0648\u0646\u064e",
+            "urlhusary": "data\/Husary_64kbps\/051027.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_27.png"
+        },
+        {
+            "indexayat": "4703",
+            "sourate": "51",
+            "numeroaya": "28",
+            "verset": "\u0641\u064e\u0623\u064e\u0648\u0652\u062c\u064e\u0633\u064e \u0645\u0650\u0646\u0652\u0647\u064f\u0645\u0652 \u062e\u0650\u064a\u0641\u064e\u0629\u064b \u0642\u064e\u0627\u0644\u064f\u0648\u0627 \u0644\u064e\u0627 \u062a\u064e\u062e\u064e\u0641\u0652 \u0648\u064e\u0628\u064e\u0634\u0651\u064e\u0631\u064f\u0648\u0647\u064f \u0628\u0650\u063a\u064f\u0644\u064e\u0627\u0645\u064d \u0639\u064e\u0644\u0650\u064a\u0645\u064d",
+            "urlhusary": "data\/Husary_64kbps\/051028.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_28.png"
+        },
+        {
+            "indexayat": "4704",
+            "sourate": "51",
+            "numeroaya": "29",
+            "verset": "\u0641\u064e\u0623\u064e\u0642\u0652\u0628\u064e\u0644\u064e\u062a\u0650 \u0627\u0645\u0652\u0631\u064e\u0623\u064e\u062a\u064f\u0647\u064f \u0641\u0650\u064a \u0635\u064e\u0631\u0651\u064e\u0629\u064d \u0641\u064e\u0635\u064e\u0643\u0651\u064e\u062a\u0652 \u0648\u064e\u062c\u0652\u0647\u064e\u0647\u064e\u0627 \u0648\u064e\u0642\u064e\u0627\u0644\u064e\u062a\u0652 \u0639\u064e\u062c\u064f\u0648\u0632\u064c \u0639\u064e\u0642\u0650\u064a\u0645\u064c",
+            "urlhusary": "data\/Husary_64kbps\/051029.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_29.png"
+        },
+        {
+            "indexayat": "4705",
+            "sourate": "51",
+            "numeroaya": "30",
+            "verset": "\u0642\u064e\u0627\u0644\u064f\u0648\u0627 \u0643\u064e\u0630\u064e\u0670\u0644\u0650\u0643\u0650 \u0642\u064e\u0627\u0644\u064e \u0631\u064e\u0628\u0651\u064f\u0643\u0650 \u0625\u0650\u0646\u0651\u064e\u0647\u064f \u0647\u064f\u0648\u064e \u0627\u0644\u0652\u062d\u064e\u0643\u0650\u064a\u0645\u064f \u0627\u0644\u0652\u0639\u064e\u0644\u0650\u064a\u0645\u064f",
+            "urlhusary": "data\/Husary_64kbps\/051030.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_30.png"
+        },
+        {
+            "indexayat": "4706",
+            "sourate": "51",
+            "numeroaya": "31",
+            "verset": "\u0642\u064e\u0627\u0644\u064e \u0641\u064e\u0645\u064e\u0627 \u062e\u064e\u0637\u0652\u0628\u064f\u0643\u064f\u0645\u0652 \u0623\u064e\u064a\u0651\u064f\u0647\u064e\u0627 \u0627\u0644\u0652\u0645\u064f\u0631\u0652\u0633\u064e\u0644\u064f\u0648\u0646\u064e",
+            "urlhusary": "data\/Husary_64kbps\/051031.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_31.png"
+        },
+        {
+            "indexayat": "4707",
+            "sourate": "51",
+            "numeroaya": "32",
+            "verset": "\u0642\u064e\u0627\u0644\u064f\u0648\u0627 \u0625\u0650\u0646\u0651\u064e\u0627 \u0623\u064f\u0631\u0652\u0633\u0650\u0644\u0652\u0646\u064e\u0627 \u0625\u0650\u0644\u064e\u0649\u0670 \u0642\u064e\u0648\u0652\u0645\u064d \u0645\u0651\u064f\u062c\u0652\u0631\u0650\u0645\u0650\u064a\u0646\u064e",
+            "urlhusary": "data\/Husary_64kbps\/051032.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_32.png"
+        },
+        {
+            "indexayat": "4708",
+            "sourate": "51",
+            "numeroaya": "33",
+            "verset": "\u0644\u0650\u0646\u064f\u0631\u0652\u0633\u0650\u0644\u064e \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650\u0645\u0652 \u062d\u0650\u062c\u064e\u0627\u0631\u064e\u0629\u064b \u0645\u0651\u0650\u0646 \u0637\u0650\u064a\u0646\u064d",
+            "urlhusary": "data\/Husary_64kbps\/051033.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_33.png"
+        },
+        {
+            "indexayat": "4709",
+            "sourate": "51",
+            "numeroaya": "34",
+            "verset": "\u0645\u0651\u064f\u0633\u064e\u0648\u0651\u064e\u0645\u064e\u0629\u064b \u0639\u0650\u0646\u062f\u064e \u0631\u064e\u0628\u0651\u0650\u0643\u064e \u0644\u0650\u0644\u0652\u0645\u064f\u0633\u0652\u0631\u0650\u0641\u0650\u064a\u0646\u064e",
+            "urlhusary": "data\/Husary_64kbps\/051034.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_34.png"
+        },
+        {
+            "indexayat": "4710",
+            "sourate": "51",
+            "numeroaya": "35",
+            "verset": "\u0641\u064e\u0623\u064e\u062e\u0652\u0631\u064e\u062c\u0652\u0646\u064e\u0627 \u0645\u064e\u0646 \u0643\u064e\u0627\u0646\u064e \u0641\u0650\u064a\u0647\u064e\u0627 \u0645\u0650\u0646\u064e \u0627\u0644\u0652\u0645\u064f\u0624\u0652\u0645\u0650\u0646\u0650\u064a\u0646\u064e",
+            "urlhusary": "data\/Husary_64kbps\/051035.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_35.png"
+        },
+        {
+            "indexayat": "4711",
+            "sourate": "51",
+            "numeroaya": "36",
+            "verset": "\u0641\u064e\u0645\u064e\u0627 \u0648\u064e\u062c\u064e\u062f\u0652\u0646\u064e\u0627 \u0641\u0650\u064a\u0647\u064e\u0627 \u063a\u064e\u064a\u0652\u0631\u064e \u0628\u064e\u064a\u0652\u062a\u064d \u0645\u0651\u0650\u0646\u064e \u0627\u0644\u0652\u0645\u064f\u0633\u0652\u0644\u0650\u0645\u0650\u064a\u0646\u064e",
+            "urlhusary": "data\/Husary_64kbps\/051036.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_36.png"
+        },
+        {
+            "indexayat": "4712",
+            "sourate": "51",
+            "numeroaya": "37",
+            "verset": "\u0648\u064e\u062a\u064e\u0631\u064e\u0643\u0652\u0646\u064e\u0627 \u0641\u0650\u064a\u0647\u064e\u0627 \u0622\u064a\u064e\u0629\u064b \u0644\u0651\u0650\u0644\u0651\u064e\u0630\u0650\u064a\u0646\u064e \u064a\u064e\u062e\u064e\u0627\u0641\u064f\u0648\u0646\u064e \u0627\u0644\u0652\u0639\u064e\u0630\u064e\u0627\u0628\u064e \u0627\u0644\u0652\u0623\u064e\u0644\u0650\u064a\u0645\u064e",
+            "urlhusary": "data\/Husary_64kbps\/051037.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_37.png"
+        },
+        {
+            "indexayat": "4713",
+            "sourate": "51",
+            "numeroaya": "38",
+            "verset": "\u0648\u064e\u0641\u0650\u064a \u0645\u064f\u0648\u0633\u064e\u0649\u0670 \u0625\u0650\u0630\u0652 \u0623\u064e\u0631\u0652\u0633\u064e\u0644\u0652\u0646\u064e\u0627\u0647\u064f \u0625\u0650\u0644\u064e\u0649\u0670 \u0641\u0650\u0631\u0652\u0639\u064e\u0648\u0652\u0646\u064e \u0628\u0650\u0633\u064f\u0644\u0652\u0637\u064e\u0627\u0646\u064d \u0645\u0651\u064f\u0628\u0650\u064a\u0646\u064d",
+            "urlhusary": "data\/Husary_64kbps\/051038.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_38.png"
+        },
+        {
+            "indexayat": "4714",
+            "sourate": "51",
+            "numeroaya": "39",
+            "verset": "\u0641\u064e\u062a\u064e\u0648\u064e\u0644\u0651\u064e\u0649\u0670 \u0628\u0650\u0631\u064f\u0643\u0652\u0646\u0650\u0647\u0650 \u0648\u064e\u0642\u064e\u0627\u0644\u064e \u0633\u064e\u0627\u062d\u0650\u0631\u064c \u0623\u064e\u0648\u0652 \u0645\u064e\u062c\u0652\u0646\u064f\u0648\u0646\u064c",
+            "urlhusary": "data\/Husary_64kbps\/051039.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_39.png"
+        },
+        {
+            "indexayat": "4715",
+            "sourate": "51",
+            "numeroaya": "40",
+            "verset": "\u0641\u064e\u0623\u064e\u062e\u064e\u0630\u0652\u0646\u064e\u0627\u0647\u064f \u0648\u064e\u062c\u064f\u0646\u064f\u0648\u062f\u064e\u0647\u064f \u0641\u064e\u0646\u064e\u0628\u064e\u0630\u0652\u0646\u064e\u0627\u0647\u064f\u0645\u0652 \u0641\u0650\u064a \u0627\u0644\u0652\u064a\u064e\u0645\u0651\u0650 \u0648\u064e\u0647\u064f\u0648\u064e \u0645\u064f\u0644\u0650\u064a\u0645\u064c",
+            "urlhusary": "data\/Husary_64kbps\/051040.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_40.png"
+        },
+        {
+            "indexayat": "4716",
+            "sourate": "51",
+            "numeroaya": "41",
+            "verset": "\u0648\u064e\u0641\u0650\u064a \u0639\u064e\u0627\u062f\u064d \u0625\u0650\u0630\u0652 \u0623\u064e\u0631\u0652\u0633\u064e\u0644\u0652\u0646\u064e\u0627 \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650\u0645\u064f \u0627\u0644\u0631\u0651\u0650\u064a\u062d\u064e \u0627\u0644\u0652\u0639\u064e\u0642\u0650\u064a\u0645\u064e",
+            "urlhusary": "data\/Husary_64kbps\/051041.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_41.png"
+        },
+        {
+            "indexayat": "4717",
+            "sourate": "51",
+            "numeroaya": "42",
+            "verset": "\u0645\u064e\u0627 \u062a\u064e\u0630\u064e\u0631\u064f \u0645\u0650\u0646 \u0634\u064e\u064a\u0652\u0621\u064d \u0623\u064e\u062a\u064e\u062a\u0652 \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650 \u0625\u0650\u0644\u0651\u064e\u0627 \u062c\u064e\u0639\u064e\u0644\u064e\u062a\u0652\u0647\u064f \u0643\u064e\u0627\u0644\u0631\u0651\u064e\u0645\u0650\u064a\u0645\u0650",
+            "urlhusary": "data\/Husary_64kbps\/051042.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_42.png"
+        },
+        {
+            "indexayat": "4718",
+            "sourate": "51",
+            "numeroaya": "43",
+            "verset": "\u0648\u064e\u0641\u0650\u064a \u062b\u064e\u0645\u064f\u0648\u062f\u064e \u0625\u0650\u0630\u0652 \u0642\u0650\u064a\u0644\u064e \u0644\u064e\u0647\u064f\u0645\u0652 \u062a\u064e\u0645\u064e\u062a\u0651\u064e\u0639\u064f\u0648\u0627 \u062d\u064e\u062a\u0651\u064e\u0649\u0670 \u062d\u0650\u064a\u0646\u064d",
+            "urlhusary": "data\/Husary_64kbps\/051043.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_43.png"
+        },
+        {
+            "indexayat": "4719",
+            "sourate": "51",
+            "numeroaya": "44",
+            "verset": "\u0641\u064e\u0639\u064e\u062a\u064e\u0648\u0652\u0627 \u0639\u064e\u0646\u0652 \u0623\u064e\u0645\u0652\u0631\u0650 \u0631\u064e\u0628\u0651\u0650\u0647\u0650\u0645\u0652 \u0641\u064e\u0623\u064e\u062e\u064e\u0630\u064e\u062a\u0652\u0647\u064f\u0645\u064f \u0627\u0644\u0635\u0651\u064e\u0627\u0639\u0650\u0642\u064e\u0629\u064f \u0648\u064e\u0647\u064f\u0645\u0652 \u064a\u064e\u0646\u0638\u064f\u0631\u064f\u0648\u0646\u064e",
+            "urlhusary": "data\/Husary_64kbps\/051044.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_44.png"
+        },
+        {
+            "indexayat": "4720",
+            "sourate": "51",
+            "numeroaya": "45",
+            "verset": "\u0641\u064e\u0645\u064e\u0627 \u0627\u0633\u0652\u062a\u064e\u0637\u064e\u0627\u0639\u064f\u0648\u0627 \u0645\u0650\u0646 \u0642\u0650\u064a\u064e\u0627\u0645\u064d \u0648\u064e\u0645\u064e\u0627 \u0643\u064e\u0627\u0646\u064f\u0648\u0627 \u0645\u064f\u0646\u062a\u064e\u0635\u0650\u0631\u0650\u064a\u0646\u064e",
+            "urlhusary": "data\/Husary_64kbps\/051045.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_45.png"
+        },
+        {
+            "indexayat": "4721",
+            "sourate": "51",
+            "numeroaya": "46",
+            "verset": "\u0648\u064e\u0642\u064e\u0648\u0652\u0645\u064e \u0646\u064f\u0648\u062d\u064d \u0645\u0651\u0650\u0646 \u0642\u064e\u0628\u0652\u0644\u064f \u0625\u0650\u0646\u0651\u064e\u0647\u064f\u0645\u0652 \u0643\u064e\u0627\u0646\u064f\u0648\u0627 \u0642\u064e\u0648\u0652\u0645\u064b\u0627 \u0641\u064e\u0627\u0633\u0650\u0642\u0650\u064a\u0646\u064e",
+            "urlhusary": "data\/Husary_64kbps\/051046.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_46.png"
+        },
+        {
+            "indexayat": "4722",
+            "sourate": "51",
+            "numeroaya": "47",
+            "verset": "\u0648\u064e\u0627\u0644\u0633\u0651\u064e\u0645\u064e\u0627\u0621\u064e \u0628\u064e\u0646\u064e\u064a\u0652\u0646\u064e\u0627\u0647\u064e\u0627 \u0628\u0650\u0623\u064e\u064a\u0652\u062f\u064d \u0648\u064e\u0625\u0650\u0646\u0651\u064e\u0627 \u0644\u064e\u0645\u064f\u0648\u0633\u0650\u0639\u064f\u0648\u0646\u064e",
+            "urlhusary": "data\/Husary_64kbps\/051047.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_47.png"
+        },
+        {
+            "indexayat": "4723",
+            "sourate": "51",
+            "numeroaya": "48",
+            "verset": "\u0648\u064e\u0627\u0644\u0652\u0623\u064e\u0631\u0652\u0636\u064e \u0641\u064e\u0631\u064e\u0634\u0652\u0646\u064e\u0627\u0647\u064e\u0627 \u0641\u064e\u0646\u0650\u0639\u0652\u0645\u064e \u0627\u0644\u0652\u0645\u064e\u0627\u0647\u0650\u062f\u064f\u0648\u0646\u064e",
+            "urlhusary": "data\/Husary_64kbps\/051048.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_48.png"
+        },
+        {
+            "indexayat": "4724",
+            "sourate": "51",
+            "numeroaya": "49",
+            "verset": "\u0648\u064e\u0645\u0650\u0646 \u0643\u064f\u0644\u0651\u0650 \u0634\u064e\u064a\u0652\u0621\u064d \u062e\u064e\u0644\u064e\u0642\u0652\u0646\u064e\u0627 \u0632\u064e\u0648\u0652\u062c\u064e\u064a\u0652\u0646\u0650 \u0644\u064e\u0639\u064e\u0644\u0651\u064e\u0643\u064f\u0645\u0652 \u062a\u064e\u0630\u064e\u0643\u0651\u064e\u0631\u064f\u0648\u0646\u064e",
+            "urlhusary": "data\/Husary_64kbps\/051049.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_49.png"
+        },
+        {
+            "indexayat": "4725",
+            "sourate": "51",
+            "numeroaya": "50",
+            "verset": "\u0641\u064e\u0641\u0650\u0631\u0651\u064f\u0648\u0627 \u0625\u0650\u0644\u064e\u0649 \u0627\u0644\u0644\u0651\u064e\u0647\u0650 \u0625\u0650\u0646\u0651\u0650\u064a \u0644\u064e\u0643\u064f\u0645 \u0645\u0651\u0650\u0646\u0652\u0647\u064f \u0646\u064e\u0630\u0650\u064a\u0631\u064c \u0645\u0651\u064f\u0628\u0650\u064a\u0646\u064c",
+            "urlhusary": "data\/Husary_64kbps\/051050.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_50.png"
+        },
+        {
+            "indexayat": "4726",
+            "sourate": "51",
+            "numeroaya": "51",
+            "verset": "\u0648\u064e\u0644\u064e\u0627 \u062a\u064e\u062c\u0652\u0639\u064e\u0644\u064f\u0648\u0627 \u0645\u064e\u0639\u064e \u0627\u0644\u0644\u0651\u064e\u0647\u0650 \u0625\u0650\u0644\u064e\u0670\u0647\u064b\u0627 \u0622\u062e\u064e\u0631\u064e \u0625\u0650\u0646\u0651\u0650\u064a \u0644\u064e\u0643\u064f\u0645 \u0645\u0651\u0650\u0646\u0652\u0647\u064f \u0646\u064e\u0630\u0650\u064a\u0631\u064c \u0645\u0651\u064f\u0628\u0650\u064a\u0646\u064c",
+            "urlhusary": "data\/Husary_64kbps\/051051.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_51.png"
+        },
+        {
+            "indexayat": "4727",
+            "sourate": "51",
+            "numeroaya": "52",
+            "verset": "\u0643\u064e\u0630\u064e\u0670\u0644\u0650\u0643\u064e \u0645\u064e\u0627 \u0623\u064e\u062a\u064e\u0649 \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0646\u064e \u0645\u0650\u0646 \u0642\u064e\u0628\u0652\u0644\u0650\u0647\u0650\u0645 \u0645\u0651\u0650\u0646 \u0631\u0651\u064e\u0633\u064f\u0648\u0644\u064d \u0625\u0650\u0644\u0651\u064e\u0627 \u0642\u064e\u0627\u0644\u064f\u0648\u0627 \u0633\u064e\u0627\u062d\u0650\u0631\u064c \u0623\u064e\u0648\u0652 \u0645\u064e\u062c\u0652\u0646\u064f\u0648\u0646\u064c",
+            "urlhusary": "data\/Husary_64kbps\/051052.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_52.png"
+        },
+        {
+            "indexayat": "4728",
+            "sourate": "51",
+            "numeroaya": "53",
+            "verset": "\u0623\u064e\u062a\u064e\u0648\u064e\u0627\u0635\u064e\u0648\u0652\u0627 \u0628\u0650\u0647\u0650 \u0628\u064e\u0644\u0652 \u0647\u064f\u0645\u0652 \u0642\u064e\u0648\u0652\u0645\u064c \u0637\u064e\u0627\u063a\u064f\u0648\u0646\u064e",
+            "urlhusary": "data\/Husary_64kbps\/051053.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_53.png"
+        },
+        {
+            "indexayat": "4729",
+            "sourate": "51",
+            "numeroaya": "54",
+            "verset": "\u0641\u064e\u062a\u064e\u0648\u064e\u0644\u0651\u064e \u0639\u064e\u0646\u0652\u0647\u064f\u0645\u0652 \u0641\u064e\u0645\u064e\u0627 \u0623\u064e\u0646\u062a\u064e \u0628\u0650\u0645\u064e\u0644\u064f\u0648\u0645\u064d",
+            "urlhusary": "data\/Husary_64kbps\/051054.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_54.png"
+        },
+        {
+            "indexayat": "4730",
+            "sourate": "51",
+            "numeroaya": "55",
+            "verset": "\u0648\u064e\u0630\u064e\u0643\u0651\u0650\u0631\u0652 \u0641\u064e\u0625\u0650\u0646\u0651\u064e \u0627\u0644\u0630\u0651\u0650\u0643\u0652\u0631\u064e\u0649\u0670 \u062a\u064e\u0646\u0641\u064e\u0639\u064f \u0627\u0644\u0652\u0645\u064f\u0624\u0652\u0645\u0650\u0646\u0650\u064a\u0646\u064e",
+            "urlhusary": "data\/Husary_64kbps\/051055.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_55.png"
+        },
+        {
+            "indexayat": "4731",
+            "sourate": "51",
+            "numeroaya": "56",
+            "verset": "\u0648\u064e\u0645\u064e\u0627 \u062e\u064e\u0644\u064e\u0642\u0652\u062a\u064f \u0627\u0644\u0652\u062c\u0650\u0646\u0651\u064e \u0648\u064e\u0627\u0644\u0652\u0625\u0650\u0646\u0633\u064e \u0625\u0650\u0644\u0651\u064e\u0627 \u0644\u0650\u064a\u064e\u0639\u0652\u0628\u064f\u062f\u064f\u0648\u0646\u0650",
+            "urlhusary": "data\/Husary_64kbps\/051056.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_56.png"
+        },
+        {
+            "indexayat": "4732",
+            "sourate": "51",
+            "numeroaya": "57",
+            "verset": "\u0645\u064e\u0627 \u0623\u064f\u0631\u0650\u064a\u062f\u064f \u0645\u0650\u0646\u0652\u0647\u064f\u0645 \u0645\u0651\u0650\u0646 \u0631\u0651\u0650\u0632\u0652\u0642\u064d \u0648\u064e\u0645\u064e\u0627 \u0623\u064f\u0631\u0650\u064a\u062f\u064f \u0623\u064e\u0646 \u064a\u064f\u0637\u0652\u0639\u0650\u0645\u064f\u0648\u0646\u0650",
+            "urlhusary": "data\/Husary_64kbps\/051057.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_57.png"
+        },
+        {
+            "indexayat": "4733",
+            "sourate": "51",
+            "numeroaya": "58",
+            "verset": "\u0625\u0650\u0646\u0651\u064e \u0627\u0644\u0644\u0651\u064e\u0647\u064e \u0647\u064f\u0648\u064e \u0627\u0644\u0631\u0651\u064e\u0632\u0651\u064e\u0627\u0642\u064f \u0630\u064f\u0648 \u0627\u0644\u0652\u0642\u064f\u0648\u0651\u064e\u0629\u0650 \u0627\u0644\u0652\u0645\u064e\u062a\u0650\u064a\u0646\u064f",
+            "urlhusary": "data\/Husary_64kbps\/051058.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_58.png"
+        },
+        {
+            "indexayat": "4734",
+            "sourate": "51",
+            "numeroaya": "59",
+            "verset": "\u0641\u064e\u0625\u0650\u0646\u0651\u064e \u0644\u0650\u0644\u0651\u064e\u0630\u0650\u064a\u0646\u064e \u0638\u064e\u0644\u064e\u0645\u064f\u0648\u0627 \u0630\u064e\u0646\u064f\u0648\u0628\u064b\u0627 \u0645\u0651\u0650\u062b\u0652\u0644\u064e \u0630\u064e\u0646\u064f\u0648\u0628\u0650 \u0623\u064e\u0635\u0652\u062d\u064e\u0627\u0628\u0650\u0647\u0650\u0645\u0652 \u0641\u064e\u0644\u064e\u0627 \u064a\u064e\u0633\u0652\u062a\u064e\u0639\u0652\u062c\u0650\u0644\u064f\u0648\u0646\u0650",
+            "urlhusary": "data\/Husary_64kbps\/051059.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_59.png"
+        },
+        {
+            "indexayat": "4735",
+            "sourate": "51",
+            "numeroaya": "60",
+            "verset": "\u0641\u064e\u0648\u064e\u064a\u0652\u0644\u064c \u0644\u0651\u0650\u0644\u0651\u064e\u0630\u0650\u064a\u0646\u064e \u0643\u064e\u0641\u064e\u0631\u064f\u0648\u0627 \u0645\u0650\u0646 \u064a\u064e\u0648\u0652\u0645\u0650\u0647\u0650\u0645\u064f \u0627\u0644\u0651\u064e\u0630\u0650\u064a \u064a\u064f\u0648\u0639\u064e\u062f\u064f\u0648\u0646\u064e",
+            "urlhusary": "data\/Husary_64kbps\/051060.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_60.png"
+        }
+    ],
+    "FR": [
+        {
+            "indexayat": "4676",
+            "sourate": "51",
+            "numeroaya": "1",
+            "verset": "Par les vents qui &eacute;parpillent!",
+            "urlhusary": "data\/Husary_64kbps\/051001.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_1.png"
+        },
+        {
+            "indexayat": "4677",
+            "sourate": "51",
+            "numeroaya": "2",
+            "verset": "Par les porteurs de fardeaux!",
+            "urlhusary": "data\/Husary_64kbps\/051002.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_2.png"
+        },
+        {
+            "indexayat": "4678",
+            "sourate": "51",
+            "numeroaya": "3",
+            "verset": "Par les glisseurs agiles!",
+            "urlhusary": "data\/Husary_64kbps\/051003.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_3.png"
+        },
+        {
+            "indexayat": "4679",
+            "sourate": "51",
+            "numeroaya": "4",
+            "verset": "Par les distributeurs selon un commandement!",
+            "urlhusary": "data\/Husary_64kbps\/051004.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_4.png"
+        },
+        {
+            "indexayat": "4680",
+            "sourate": "51",
+            "numeroaya": "5",
+            "verset": "Ce qui vous est promis est certainement vrai.",
+            "urlhusary": "data\/Husary_64kbps\/051005.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_5.png"
+        },
+        {
+            "indexayat": "4681",
+            "sourate": "51",
+            "numeroaya": "6",
+            "verset": "Et la R&eacute;tribution arrivera in&eacute;vitablement.",
+            "urlhusary": "data\/Husary_64kbps\/051006.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_6.png"
+        },
+        {
+            "indexayat": "4682",
+            "sourate": "51",
+            "numeroaya": "7",
+            "verset": "Par le ciel aux voies parfaitement trac&eacute;es!",
+            "urlhusary": "data\/Husary_64kbps\/051007.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_7.png"
+        },
+        {
+            "indexayat": "4683",
+            "sourate": "51",
+            "numeroaya": "8",
+            "verset": "vous divergez sur ce que vous dites.",
+            "urlhusary": "data\/Husary_64kbps\/051008.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_8.png"
+        },
+        {
+            "indexayat": "4684",
+            "sourate": "51",
+            "numeroaya": "9",
+            "verset": "Est d&eacute;tourn&eacute; de lui quiconque a &eacute;t&eacute; d&eacute;tourn&eacute; de la foi.",
+            "urlhusary": "data\/Husary_64kbps\/051009.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_9.png"
+        },
+        {
+            "indexayat": "4685",
+            "sourate": "51",
+            "numeroaya": "10",
+            "verset": "Maudits soient les menteurs,",
+            "urlhusary": "data\/Husary_64kbps\/051010.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_10.png"
+        },
+        {
+            "indexayat": "4686",
+            "sourate": "51",
+            "numeroaya": "11",
+            "verset": "qui sont plong&eacute;s dans l&apos;insouciance.",
+            "urlhusary": "data\/Husary_64kbps\/051011.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_11.png"
+        },
+        {
+            "indexayat": "4687",
+            "sourate": "51",
+            "numeroaya": "12",
+            "verset": "Ils demandent: &laquo;A quand le jour de la R&eacute;tribution?&raquo;",
+            "urlhusary": "data\/Husary_64kbps\/051012.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_12.png"
+        },
+        {
+            "indexayat": "4688",
+            "sourate": "51",
+            "numeroaya": "13",
+            "verset": "Le jour o&ugrave; ils seront &eacute;prouv&eacute;s au Feu:",
+            "urlhusary": "data\/Husary_64kbps\/051013.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_13.png"
+        },
+        {
+            "indexayat": "4689",
+            "sourate": "51",
+            "numeroaya": "14",
+            "verset": "&laquo;Go&ucirc;tez &agrave; votre &eacute;preuve [punition]; voici ce que vous cherchiez &agrave; h&acirc;ter&raquo;.",
+            "urlhusary": "data\/Husary_64kbps\/051014.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_14.png"
+        },
+        {
+            "indexayat": "4690",
+            "sourate": "51",
+            "numeroaya": "15",
+            "verset": "Les pieux seront dans des Jardins et [parmi] des sources,",
+            "urlhusary": "data\/Husary_64kbps\/051015.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_15.png"
+        },
+        {
+            "indexayat": "4691",
+            "sourate": "51",
+            "numeroaya": "16",
+            "verset": "recevant ce que leur Seigneur leur aura donn&eacute;. Car ils ont &eacute;t&eacute; auparavant des bienfaisants:",
+            "urlhusary": "data\/Husary_64kbps\/051016.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_16.png"
+        },
+        {
+            "indexayat": "4692",
+            "sourate": "51",
+            "numeroaya": "17",
+            "verset": "ils dormaient peu, la nuit,",
+            "urlhusary": "data\/Husary_64kbps\/051017.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_17.png"
+        },
+        {
+            "indexayat": "4693",
+            "sourate": "51",
+            "numeroaya": "18",
+            "verset": "et aux derni&egrave;res heures de la nuit ils imploraient le pardon [d&apos;Allah];",
+            "urlhusary": "data\/Husary_64kbps\/051018.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_18.png"
+        },
+        {
+            "indexayat": "4694",
+            "sourate": "51",
+            "numeroaya": "19",
+            "verset": "et dans leurs biens, il y avait un droit au mendiant et au d&eacute;sh&eacute;rit&eacute;.",
+            "urlhusary": "data\/Husary_64kbps\/051019.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_19.png"
+        },
+        {
+            "indexayat": "4695",
+            "sourate": "51",
+            "numeroaya": "20",
+            "verset": "Il y a sur terre des preuves pour ceux qui croient avec certitude;",
+            "urlhusary": "data\/Husary_64kbps\/051020.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_20.png"
+        },
+        {
+            "indexayat": "4696",
+            "sourate": "51",
+            "numeroaya": "21",
+            "verset": "ainsi qu&apos;en vous-m&ecirc;mes. N&apos;observez-vous donc pas?",
+            "urlhusary": "data\/Husary_64kbps\/051021.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_21.png"
+        },
+        {
+            "indexayat": "4697",
+            "sourate": "51",
+            "numeroaya": "22",
+            "verset": "Et il y a dans le ciel votre subsistance et ce qui vous a &eacute;t&eacute; promis.",
+            "urlhusary": "data\/Husary_64kbps\/051022.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_22.png"
+        },
+        {
+            "indexayat": "4698",
+            "sourate": "51",
+            "numeroaya": "23",
+            "verset": "Par le Seigneur du ciel et de la terre! Ceci est tout aussi vrai que le fait que vous parliez.",
+            "urlhusary": "data\/Husary_64kbps\/051023.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_23.png"
+        },
+        {
+            "indexayat": "4699",
+            "sourate": "51",
+            "numeroaya": "24",
+            "verset": "T&apos;est-il parvenu le r&eacute;cit des visiteurs honorables d&apos;Abraham?",
+            "urlhusary": "data\/Husary_64kbps\/051024.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_24.png"
+        },
+        {
+            "indexayat": "4700",
+            "sourate": "51",
+            "numeroaya": "25",
+            "verset": "Quand ils entr&egrave;rent chez lui et dirent: &laquo;Paix!&raquo;, il [leur] dit: &laquo;Paix, visiteurs inconnus&raquo;.",
+            "urlhusary": "data\/Husary_64kbps\/051025.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_25.png"
+        },
+        {
+            "indexayat": "4701",
+            "sourate": "51",
+            "numeroaya": "26",
+            "verset": "Puis il alla discr&egrave;tement &agrave; sa famille et apporta un veau gras.",
+            "urlhusary": "data\/Husary_64kbps\/051026.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_26.png"
+        },
+        {
+            "indexayat": "4702",
+            "sourate": "51",
+            "numeroaya": "27",
+            "verset": "Ensuite il l&apos;approcha d&apos;eux... &laquo;Ne mangez-vous pas?&raquo; dit-il.",
+            "urlhusary": "data\/Husary_64kbps\/051027.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_27.png"
+        },
+        {
+            "indexayat": "4703",
+            "sourate": "51",
+            "numeroaya": "28",
+            "verset": "Il ressentit alors de la peur vis-&agrave;-vis d&apos;eux. Ils dirent: &laquo;N&apos;aie pas peur&raquo;. Et ils lui annonc&egrave;rent [la naissance] d&apos;un gar&ccedil;on plein de savoir.",
+            "urlhusary": "data\/Husary_64kbps\/051028.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_28.png"
+        },
+        {
+            "indexayat": "4704",
+            "sourate": "51",
+            "numeroaya": "29",
+            "verset": "Alors sa femme s&apos;avan&ccedil;a en criant, se frappa le visage et dit: &laquo;Une vieille femme st&eacute;rile...&raquo;",
+            "urlhusary": "data\/Husary_64kbps\/051029.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_29.png"
+        },
+        {
+            "indexayat": "4705",
+            "sourate": "51",
+            "numeroaya": "30",
+            "verset": "Ils dirent: &laquo;Ainsi a dit ton Seigneur. C&apos;est Lui vraiment le Sage, l&apos;Omniscient&raquo;.",
+            "urlhusary": "data\/Husary_64kbps\/051030.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_30.png"
+        },
+        {
+            "indexayat": "4706",
+            "sourate": "51",
+            "numeroaya": "31",
+            "verset": "Alors [Abraham] dit: &laquo;Quelle est donc votre mission, &ocirc; envoy&eacute;s?&raquo;",
+            "urlhusary": "data\/Husary_64kbps\/051031.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_31.png"
+        },
+        {
+            "indexayat": "4707",
+            "sourate": "51",
+            "numeroaya": "32",
+            "verset": "Ils dirent: &laquo;Nous avons &eacute;t&eacute; envoy&eacute;s vers des gens criminels,",
+            "urlhusary": "data\/Husary_64kbps\/051032.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_32.png"
+        },
+        {
+            "indexayat": "4708",
+            "sourate": "51",
+            "numeroaya": "33",
+            "verset": "pour lancer sur eux des pierres de glaise,",
+            "urlhusary": "data\/Husary_64kbps\/051033.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_33.png"
+        },
+        {
+            "indexayat": "4709",
+            "sourate": "51",
+            "numeroaya": "34",
+            "verset": "marqu&eacute;es aupr&egrave;s de ton Seigneur &agrave; l&apos;intention des outranciers&raquo;.",
+            "urlhusary": "data\/Husary_64kbps\/051034.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_34.png"
+        },
+        {
+            "indexayat": "4710",
+            "sourate": "51",
+            "numeroaya": "35",
+            "verset": "Nous en f&icirc;mes sortir alors ce qu&apos;il y avait comme croyants,",
+            "urlhusary": "data\/Husary_64kbps\/051035.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_35.png"
+        },
+        {
+            "indexayat": "4711",
+            "sourate": "51",
+            "numeroaya": "36",
+            "verset": "mais Nous n&apos;y trouv&acirc;mes qu&apos;une seule maison de gens soumis.",
+            "urlhusary": "data\/Husary_64kbps\/051036.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_36.png"
+        },
+        {
+            "indexayat": "4712",
+            "sourate": "51",
+            "numeroaya": "37",
+            "verset": "Et Nous y laiss&acirc;mes un signe pour ceux qui redoutent le douloureux ch&acirc;timent;",
+            "urlhusary": "data\/Husary_64kbps\/051037.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_37.png"
+        },
+        {
+            "indexayat": "4713",
+            "sourate": "51",
+            "numeroaya": "38",
+            "verset": "[Il y a m&ecirc;me un signe] en Mo&iuml;se quand Nous l&apos;envoy&acirc;mes, avec une preuve &eacute;vidente, vers Pharaon.",
+            "urlhusary": "data\/Husary_64kbps\/051038.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_38.png"
+        },
+        {
+            "indexayat": "4714",
+            "sourate": "51",
+            "numeroaya": "39",
+            "verset": "Mais [celui-ci] se d&eacute;tourna confiant en sa puissance, et dit: &laquo;C&apos;est un magicien ou un poss&eacute;d&eacute;!&raquo;",
+            "urlhusary": "data\/Husary_64kbps\/051039.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_39.png"
+        },
+        {
+            "indexayat": "4715",
+            "sourate": "51",
+            "numeroaya": "40",
+            "verset": "Nous le sais&icirc;mes ainsi que ses troupes, puis les jet&acirc;mes dans les flots, pour son comportement bl&acirc;mable.",
+            "urlhusary": "data\/Husary_64kbps\/051040.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_40.png"
+        },
+        {
+            "indexayat": "4716",
+            "sourate": "51",
+            "numeroaya": "41",
+            "verset": "De m&ecirc;me pour les &apos;Aad, quand Nous envoy&acirc;mes contre eux le vent d&eacute;vastateur",
+            "urlhusary": "data\/Husary_64kbps\/051041.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_41.png"
+        },
+        {
+            "indexayat": "4717",
+            "sourate": "51",
+            "numeroaya": "42",
+            "verset": "n&apos;&eacute;pargnant rien sur son passage sans le r&eacute;duire en poussi&egrave;re.",
+            "urlhusary": "data\/Husary_64kbps\/051042.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_42.png"
+        },
+        {
+            "indexayat": "4718",
+            "sourate": "51",
+            "numeroaya": "43",
+            "verset": "De m&ecirc;me pour les Tham&ucirc;d, quand il leur fut dit: &laquo;Jouissez jusqu&apos;&agrave; un certain temps!&raquo;",
+            "urlhusary": "data\/Husary_64kbps\/051043.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_43.png"
+        },
+        {
+            "indexayat": "4719",
+            "sourate": "51",
+            "numeroaya": "44",
+            "verset": "Ils d&eacute;fi&egrave;rent le commandement de leur Seigneur. La foudre les saisit alors qu&apos;ils regardaient.",
+            "urlhusary": "data\/Husary_64kbps\/051044.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_44.png"
+        },
+        {
+            "indexayat": "4720",
+            "sourate": "51",
+            "numeroaya": "45",
+            "verset": "Ils ne purent ni se mettre debout ni &ecirc;tre secourus.",
+            "urlhusary": "data\/Husary_64kbps\/051045.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_45.png"
+        },
+        {
+            "indexayat": "4721",
+            "sourate": "51",
+            "numeroaya": "46",
+            "verset": "De m&ecirc;me, pour le peuple de No&eacute; auparavant. Ils &eacute;taient des gens pervers.",
+            "urlhusary": "data\/Husary_64kbps\/051046.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_46.png"
+        },
+        {
+            "indexayat": "4722",
+            "sourate": "51",
+            "numeroaya": "47",
+            "verset": "Le ciel, Nous l&apos;avons construit par Notre puissance: et Nous l&apos;&eacute;tendons [constamment] dans l&apos;immensit&eacute;.",
+            "urlhusary": "data\/Husary_64kbps\/051047.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_47.png"
+        },
+        {
+            "indexayat": "4723",
+            "sourate": "51",
+            "numeroaya": "48",
+            "verset": "Et la terre, Nous l&apos;avons &eacute;tendue. Et de quelle excellente fa&ccedil;on Nous l&apos;avons nivel&eacute;e!",
+            "urlhusary": "data\/Husary_64kbps\/051048.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_48.png"
+        },
+        {
+            "indexayat": "4724",
+            "sourate": "51",
+            "numeroaya": "49",
+            "verset": "Et de toute chose Nous avons cr&eacute;&eacute; [deux &eacute;l&eacute;ments] de couple. Peut-&ecirc;tre vous rappellerez-vous?",
+            "urlhusary": "data\/Husary_64kbps\/051049.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_49.png"
+        },
+        {
+            "indexayat": "4725",
+            "sourate": "51",
+            "numeroaya": "50",
+            "verset": "&laquo;Fuyez donc vers Allah. Moi, je suis pour vous de Sa part, un avertisseur explicite.",
+            "urlhusary": "data\/Husary_64kbps\/051050.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_50.png"
+        },
+        {
+            "indexayat": "4726",
+            "sourate": "51",
+            "numeroaya": "51",
+            "verset": "Ne placez pas avec Allah une autre divinit&eacute;. Je suis pour vous de Sa part, un avertisseur explicite&raquo;.",
+            "urlhusary": "data\/Husary_64kbps\/051051.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_51.png"
+        },
+        {
+            "indexayat": "4727",
+            "sourate": "51",
+            "numeroaya": "52",
+            "verset": "Ainsi, aucun Messager n&apos;est venu &agrave; leurs pr&eacute;d&eacute;cesseurs sans qu&apos;ils n&apos;aient dit: &laquo;C&apos;est un magicien ou un poss&eacute;d&eacute;!&raquo;",
+            "urlhusary": "data\/Husary_64kbps\/051052.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_52.png"
+        },
+        {
+            "indexayat": "4728",
+            "sourate": "51",
+            "numeroaya": "53",
+            "verset": "Est-ce qu&apos;ils se sont transmis cette injonction? Ils sont plut&ocirc;t des gens transgresseurs.",
+            "urlhusary": "data\/Husary_64kbps\/051053.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_53.png"
+        },
+        {
+            "indexayat": "4729",
+            "sourate": "51",
+            "numeroaya": "54",
+            "verset": "D&eacute;tourne-toi d&apos;eux, tu ne seras pas bl&acirc;m&eacute; [&agrave; leur sujet].",
+            "urlhusary": "data\/Husary_64kbps\/051054.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_54.png"
+        },
+        {
+            "indexayat": "4730",
+            "sourate": "51",
+            "numeroaya": "55",
+            "verset": "Et rappelle; car le rappel profite aux croyants.",
+            "urlhusary": "data\/Husary_64kbps\/051055.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_55.png"
+        },
+        {
+            "indexayat": "4731",
+            "sourate": "51",
+            "numeroaya": "56",
+            "verset": "Je n&apos;ai cr&eacute;&eacute; les djinns et les hommes que pour qu&apos;ils M&apos;adorent.",
+            "urlhusary": "data\/Husary_64kbps\/051056.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_56.png"
+        },
+        {
+            "indexayat": "4732",
+            "sourate": "51",
+            "numeroaya": "57",
+            "verset": "Je ne cherche pas d&apos;eux une subsistance; et Je ne veux pas qu&apos;ils me nourrissent.",
+            "urlhusary": "data\/Husary_64kbps\/051057.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_57.png"
+        },
+        {
+            "indexayat": "4733",
+            "sourate": "51",
+            "numeroaya": "58",
+            "verset": "En v&eacute;rit&eacute;, c&apos;est Allah qui est le Grand Pourvoyeur, Le D&eacute;tenteur de la force, l&apos;In&eacute;branlable.",
+            "urlhusary": "data\/Husary_64kbps\/051058.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_58.png"
+        },
+        {
+            "indexayat": "4734",
+            "sourate": "51",
+            "numeroaya": "59",
+            "verset": "Ceux qui ont &eacute;t&eacute; injustes auront une part [de tourments] pareille &agrave; celle de leurs compagnons. Qu&apos;ils ne soient pas trop press&eacute;s.",
+            "urlhusary": "data\/Husary_64kbps\/051059.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_59.png"
+        },
+        {
+            "indexayat": "4735",
+            "sourate": "51",
+            "numeroaya": "60",
+            "verset": "Malheur donc &agrave; ceux qui ont m&eacute;cru &agrave; cause du jour dont ils sont menac&eacute;s!",
+            "urlhusary": "data\/Husary_64kbps\/051060.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/51_60.png"
+        }
+    ],
+    "count": 60
+}

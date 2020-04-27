@@ -1,0 +1,87 @@
+{
+    "UTH": [
+        {
+            "indexayat": "6126",
+            "sourate": "97",
+            "numeroaya": "1",
+            "verset": "\u0628\u0651\u0650\u0633\u0652\u0645\u0650 \u0627\u0644\u0644\u0651\u064e\u0647\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0652\u0645\u064e\u0670\u0646\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u0650 \u0625\u0650\u0646\u0651\u064e\u0627 \u0623\u064e\u0646\u0632\u064e\u0644\u0652\u0646\u064e\u0627\u0647\u064f \u0641\u0650\u064a \u0644\u064e\u064a\u0652\u0644\u064e\u0629\u0650 \u0627\u0644\u0652\u0642\u064e\u062f\u0652\u0631\u0650",
+            "urlhusary": "data\/Husary_64kbps\/097001.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/97_1.png"
+        },
+        {
+            "indexayat": "6127",
+            "sourate": "97",
+            "numeroaya": "2",
+            "verset": "\u0648\u064e\u0645\u064e\u0627 \u0623\u064e\u062f\u0652\u0631\u064e\u0627\u0643\u064e \u0645\u064e\u0627 \u0644\u064e\u064a\u0652\u0644\u064e\u0629\u064f \u0627\u0644\u0652\u0642\u064e\u062f\u0652\u0631\u0650",
+            "urlhusary": "data\/Husary_64kbps\/097002.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/97_2.png"
+        },
+        {
+            "indexayat": "6128",
+            "sourate": "97",
+            "numeroaya": "3",
+            "verset": "\u0644\u064e\u064a\u0652\u0644\u064e\u0629\u064f \u0627\u0644\u0652\u0642\u064e\u062f\u0652\u0631\u0650 \u062e\u064e\u064a\u0652\u0631\u064c \u0645\u0651\u0650\u0646\u0652 \u0623\u064e\u0644\u0652\u0641\u0650 \u0634\u064e\u0647\u0652\u0631\u064d",
+            "urlhusary": "data\/Husary_64kbps\/097003.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/97_3.png"
+        },
+        {
+            "indexayat": "6129",
+            "sourate": "97",
+            "numeroaya": "4",
+            "verset": "\u062a\u064e\u0646\u064e\u0632\u0651\u064e\u0644\u064f \u0627\u0644\u0652\u0645\u064e\u0644\u064e\u0627\u0626\u0650\u0643\u064e\u0629\u064f \u0648\u064e\u0627\u0644\u0631\u0651\u064f\u0648\u062d\u064f \u0641\u0650\u064a\u0647\u064e\u0627 \u0628\u0650\u0625\u0650\u0630\u0652\u0646\u0650 \u0631\u064e\u0628\u0651\u0650\u0647\u0650\u0645 \u0645\u0651\u0650\u0646 \u0643\u064f\u0644\u0651\u0650 \u0623\u064e\u0645\u0652\u0631\u064d",
+            "urlhusary": "data\/Husary_64kbps\/097004.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/97_4.png"
+        },
+        {
+            "indexayat": "6130",
+            "sourate": "97",
+            "numeroaya": "5",
+            "verset": "\u0633\u064e\u0644\u064e\u0627\u0645\u064c \u0647\u0650\u064a\u064e \u062d\u064e\u062a\u0651\u064e\u0649\u0670 \u0645\u064e\u0637\u0652\u0644\u064e\u0639\u0650 \u0627\u0644\u0652\u0641\u064e\u062c\u0652\u0631\u0650",
+            "urlhusary": "data\/Husary_64kbps\/097005.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/97_5.png"
+        }
+    ],
+    "FR": [
+        {
+            "indexayat": "6126",
+            "sourate": "97",
+            "numeroaya": "1",
+            "verset": "Nous l&apos;avons certes, fait descendre (le Coran) pendant la nuit d&apos;Al-Qadr.",
+            "urlhusary": "data\/Husary_64kbps\/097001.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/97_1.png"
+        },
+        {
+            "indexayat": "6127",
+            "sourate": "97",
+            "numeroaya": "2",
+            "verset": "Et qui te dira ce qu&apos;est la nuit d&apos;Al-Qadr?",
+            "urlhusary": "data\/Husary_64kbps\/097002.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/97_2.png"
+        },
+        {
+            "indexayat": "6128",
+            "sourate": "97",
+            "numeroaya": "3",
+            "verset": "La nuit d&apos;Al-Qadr est meilleure que mille mois.",
+            "urlhusary": "data\/Husary_64kbps\/097003.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/97_3.png"
+        },
+        {
+            "indexayat": "6129",
+            "sourate": "97",
+            "numeroaya": "4",
+            "verset": "Durant celle-ci descendent les Anges ainsi que l&apos;Esprit, par permission de leur Seigneur pour tout ordre.",
+            "urlhusary": "data\/Husary_64kbps\/097004.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/97_4.png"
+        },
+        {
+            "indexayat": "6130",
+            "sourate": "97",
+            "numeroaya": "5",
+            "verset": "Elle est paix et salut jusqu&apos;&agrave; l&apos;apparition de l&apos;aube.",
+            "urlhusary": "data\/Husary_64kbps\/097005.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/97_5.png"
+        }
+    ],
+    "count": 5
+}

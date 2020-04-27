@@ -1,0 +1,183 @@
+{
+    "UTH": [
+        {
+            "indexayat": "6080",
+            "sourate": "93",
+            "numeroaya": "1",
+            "verset": "\u0628\u0650\u0633\u0652\u0645\u0650 \u0627\u0644\u0644\u0651\u064e\u0647\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0652\u0645\u064e\u0670\u0646\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u0650 \u0648\u064e\u0627\u0644\u0636\u0651\u064f\u062d\u064e\u0649\u0670",
+            "urlhusary": "data\/Husary_64kbps\/093001.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/93_1.png"
+        },
+        {
+            "indexayat": "6081",
+            "sourate": "93",
+            "numeroaya": "2",
+            "verset": "\u0648\u064e\u0627\u0644\u0644\u0651\u064e\u064a\u0652\u0644\u0650 \u0625\u0650\u0630\u064e\u0627 \u0633\u064e\u062c\u064e\u0649\u0670",
+            "urlhusary": "data\/Husary_64kbps\/093002.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/93_2.png"
+        },
+        {
+            "indexayat": "6082",
+            "sourate": "93",
+            "numeroaya": "3",
+            "verset": "\u0645\u064e\u0627 \u0648\u064e\u062f\u0651\u064e\u0639\u064e\u0643\u064e \u0631\u064e\u0628\u0651\u064f\u0643\u064e \u0648\u064e\u0645\u064e\u0627 \u0642\u064e\u0644\u064e\u0649\u0670",
+            "urlhusary": "data\/Husary_64kbps\/093003.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/93_3.png"
+        },
+        {
+            "indexayat": "6083",
+            "sourate": "93",
+            "numeroaya": "4",
+            "verset": "\u0648\u064e\u0644\u064e\u0644\u0652\u0622\u062e\u0650\u0631\u064e\u0629\u064f \u062e\u064e\u064a\u0652\u0631\u064c \u0644\u0651\u064e\u0643\u064e \u0645\u0650\u0646\u064e \u0627\u0644\u0652\u0623\u064f\u0648\u0644\u064e\u0649\u0670",
+            "urlhusary": "data\/Husary_64kbps\/093004.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/93_4.png"
+        },
+        {
+            "indexayat": "6084",
+            "sourate": "93",
+            "numeroaya": "5",
+            "verset": "\u0648\u064e\u0644\u064e\u0633\u064e\u0648\u0652\u0641\u064e \u064a\u064f\u0639\u0652\u0637\u0650\u064a\u0643\u064e \u0631\u064e\u0628\u0651\u064f\u0643\u064e \u0641\u064e\u062a\u064e\u0631\u0652\u0636\u064e\u0649\u0670",
+            "urlhusary": "data\/Husary_64kbps\/093005.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/93_5.png"
+        },
+        {
+            "indexayat": "6085",
+            "sourate": "93",
+            "numeroaya": "6",
+            "verset": "\u0623\u064e\u0644\u064e\u0645\u0652 \u064a\u064e\u062c\u0650\u062f\u0652\u0643\u064e \u064a\u064e\u062a\u0650\u064a\u0645\u064b\u0627 \u0641\u064e\u0622\u0648\u064e\u0649\u0670",
+            "urlhusary": "data\/Husary_64kbps\/093006.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/93_6.png"
+        },
+        {
+            "indexayat": "6086",
+            "sourate": "93",
+            "numeroaya": "7",
+            "verset": "\u0648\u064e\u0648\u064e\u062c\u064e\u062f\u064e\u0643\u064e \u0636\u064e\u0627\u0644\u0651\u064b\u0627 \u0641\u064e\u0647\u064e\u062f\u064e\u0649\u0670",
+            "urlhusary": "data\/Husary_64kbps\/093007.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/93_7.png"
+        },
+        {
+            "indexayat": "6087",
+            "sourate": "93",
+            "numeroaya": "8",
+            "verset": "\u0648\u064e\u0648\u064e\u062c\u064e\u062f\u064e\u0643\u064e \u0639\u064e\u0627\u0626\u0650\u0644\u064b\u0627 \u0641\u064e\u0623\u064e\u063a\u0652\u0646\u064e\u0649\u0670",
+            "urlhusary": "data\/Husary_64kbps\/093008.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/93_8.png"
+        },
+        {
+            "indexayat": "6088",
+            "sourate": "93",
+            "numeroaya": "9",
+            "verset": "\u0641\u064e\u0623\u064e\u0645\u0651\u064e\u0627 \u0627\u0644\u0652\u064a\u064e\u062a\u0650\u064a\u0645\u064e \u0641\u064e\u0644\u064e\u0627 \u062a\u064e\u0642\u0652\u0647\u064e\u0631\u0652",
+            "urlhusary": "data\/Husary_64kbps\/093009.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/93_9.png"
+        },
+        {
+            "indexayat": "6089",
+            "sourate": "93",
+            "numeroaya": "10",
+            "verset": "\u0648\u064e\u0623\u064e\u0645\u0651\u064e\u0627 \u0627\u0644\u0633\u0651\u064e\u0627\u0626\u0650\u0644\u064e \u0641\u064e\u0644\u064e\u0627 \u062a\u064e\u0646\u0652\u0647\u064e\u0631\u0652",
+            "urlhusary": "data\/Husary_64kbps\/093010.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/93_10.png"
+        },
+        {
+            "indexayat": "6090",
+            "sourate": "93",
+            "numeroaya": "11",
+            "verset": "\u0648\u064e\u0623\u064e\u0645\u0651\u064e\u0627 \u0628\u0650\u0646\u0650\u0639\u0652\u0645\u064e\u0629\u0650 \u0631\u064e\u0628\u0651\u0650\u0643\u064e \u0641\u064e\u062d\u064e\u062f\u0651\u0650\u062b\u0652",
+            "urlhusary": "data\/Husary_64kbps\/093011.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/93_11.png"
+        }
+    ],
+    "FR": [
+        {
+            "indexayat": "6080",
+            "sourate": "93",
+            "numeroaya": "1",
+            "verset": "Par le Jour Montant!",
+            "urlhusary": "data\/Husary_64kbps\/093001.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/93_1.png"
+        },
+        {
+            "indexayat": "6081",
+            "sourate": "93",
+            "numeroaya": "2",
+            "verset": "Et par la nuit quand elle couvre tout!",
+            "urlhusary": "data\/Husary_64kbps\/093002.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/93_2.png"
+        },
+        {
+            "indexayat": "6082",
+            "sourate": "93",
+            "numeroaya": "3",
+            "verset": "Ton Seigneur ne t&apos;a ni abandonn&eacute;, ni d&eacute;test&eacute;.",
+            "urlhusary": "data\/Husary_64kbps\/093003.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/93_3.png"
+        },
+        {
+            "indexayat": "6083",
+            "sourate": "93",
+            "numeroaya": "4",
+            "verset": "La vie derni&egrave;re t&apos;est, certes, meilleure que la vie pr&eacute;sente.",
+            "urlhusary": "data\/Husary_64kbps\/093004.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/93_4.png"
+        },
+        {
+            "indexayat": "6084",
+            "sourate": "93",
+            "numeroaya": "5",
+            "verset": "Ton Seigneur t&apos;accordera certes [Ses faveurs], et alors tu seras satisfait.",
+            "urlhusary": "data\/Husary_64kbps\/093005.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/93_5.png"
+        },
+        {
+            "indexayat": "6085",
+            "sourate": "93",
+            "numeroaya": "6",
+            "verset": "Ne t&apos;a-t-Il pas trouv&eacute; orphelin? Alors Il t&apos;a accueilli!",
+            "urlhusary": "data\/Husary_64kbps\/093006.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/93_6.png"
+        },
+        {
+            "indexayat": "6086",
+            "sourate": "93",
+            "numeroaya": "7",
+            "verset": "Ne t&apos;a-t-Il pas trouv&eacute; &eacute;gar&eacute;? Alors Il t&apos;a guid&eacute;.",
+            "urlhusary": "data\/Husary_64kbps\/093007.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/93_7.png"
+        },
+        {
+            "indexayat": "6087",
+            "sourate": "93",
+            "numeroaya": "8",
+            "verset": "Ne t&apos;a-t-Il pas trouv&eacute; pauvre? Alors Il t&apos;a enrichi.",
+            "urlhusary": "data\/Husary_64kbps\/093008.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/93_8.png"
+        },
+        {
+            "indexayat": "6088",
+            "sourate": "93",
+            "numeroaya": "9",
+            "verset": "Quant &agrave; l&apos;orphelin, donc, ne le maltraite pas.",
+            "urlhusary": "data\/Husary_64kbps\/093009.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/93_9.png"
+        },
+        {
+            "indexayat": "6089",
+            "sourate": "93",
+            "numeroaya": "10",
+            "verset": "Quant au demandeur, ne le repousse pas.",
+            "urlhusary": "data\/Husary_64kbps\/093010.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/93_10.png"
+        },
+        {
+            "indexayat": "6090",
+            "sourate": "93",
+            "numeroaya": "11",
+            "verset": "Et quant au bienfait de ton Seigneur, proclame-le.",
+            "urlhusary": "data\/Husary_64kbps\/093011.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/93_11.png"
+        }
+    ],
+    "count": 11
+}

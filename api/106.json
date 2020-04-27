@@ -1,0 +1,71 @@
+{
+    "UTH": [
+        {
+            "indexayat": "6194",
+            "sourate": "106",
+            "numeroaya": "1",
+            "verset": "\u0628\u0650\u0633\u0652\u0645\u0650 \u0627\u0644\u0644\u0651\u064e\u0647\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0652\u0645\u064e\u0670\u0646\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u0650 \u0644\u0650\u0625\u0650\u064a\u0644\u064e\u0627\u0641\u0650 \u0642\u064f\u0631\u064e\u064a\u0652\u0634\u064d",
+            "urlhusary": "data\/Husary_64kbps\/106001.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/106_1.png"
+        },
+        {
+            "indexayat": "6195",
+            "sourate": "106",
+            "numeroaya": "2",
+            "verset": "\u0625\u0650\u064a\u0644\u064e\u0627\u0641\u0650\u0647\u0650\u0645\u0652 \u0631\u0650\u062d\u0652\u0644\u064e\u0629\u064e \u0627\u0644\u0634\u0651\u0650\u062a\u064e\u0627\u0621\u0650 \u0648\u064e\u0627\u0644\u0635\u0651\u064e\u064a\u0652\u0641\u0650",
+            "urlhusary": "data\/Husary_64kbps\/106002.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/106_2.png"
+        },
+        {
+            "indexayat": "6196",
+            "sourate": "106",
+            "numeroaya": "3",
+            "verset": "\u0641\u064e\u0644\u0652\u064a\u064e\u0639\u0652\u0628\u064f\u062f\u064f\u0648\u0627 \u0631\u064e\u0628\u0651\u064e \u0647\u064e\u0670\u0630\u064e\u0627 \u0627\u0644\u0652\u0628\u064e\u064a\u0652\u062a\u0650",
+            "urlhusary": "data\/Husary_64kbps\/106003.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/106_3.png"
+        },
+        {
+            "indexayat": "6197",
+            "sourate": "106",
+            "numeroaya": "4",
+            "verset": "\u0627\u0644\u0651\u064e\u0630\u0650\u064a \u0623\u064e\u0637\u0652\u0639\u064e\u0645\u064e\u0647\u064f\u0645 \u0645\u0651\u0650\u0646 \u062c\u064f\u0648\u0639\u064d \u0648\u064e\u0622\u0645\u064e\u0646\u064e\u0647\u064f\u0645 \u0645\u0651\u0650\u0646\u0652 \u062e\u064e\u0648\u0652\u0641\u064d",
+            "urlhusary": "data\/Husary_64kbps\/106004.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/106_4.png"
+        }
+    ],
+    "FR": [
+        {
+            "indexayat": "6194",
+            "sourate": "106",
+            "numeroaya": "1",
+            "verset": "A cause du pacte des Cora&iuml;ch,",
+            "urlhusary": "data\/Husary_64kbps\/106001.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/106_1.png"
+        },
+        {
+            "indexayat": "6195",
+            "sourate": "106",
+            "numeroaya": "2",
+            "verset": "De leur pacte [concernant] les voyages d&apos;hiver et d&apos;&eacute;t&eacute;.",
+            "urlhusary": "data\/Husary_64kbps\/106002.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/106_2.png"
+        },
+        {
+            "indexayat": "6196",
+            "sourate": "106",
+            "numeroaya": "3",
+            "verset": "Qu&apos;ils adorent donc le Seigneur de cette Maison [la Ka&apos;ba],",
+            "urlhusary": "data\/Husary_64kbps\/106003.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/106_3.png"
+        },
+        {
+            "indexayat": "6197",
+            "sourate": "106",
+            "numeroaya": "4",
+            "verset": "qui les a nourris contre la faim et rassur&eacute;s de la crainte!",
+            "urlhusary": "data\/Husary_64kbps\/106004.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/106_4.png"
+        }
+    ],
+    "count": 4
+}

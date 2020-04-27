@@ -1,0 +1,103 @@
+{
+    "UTH": [
+        {
+            "indexayat": "6208",
+            "sourate": "109",
+            "numeroaya": "1",
+            "verset": "\u0628\u0650\u0633\u0652\u0645\u0650 \u0627\u0644\u0644\u0651\u064e\u0647\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0652\u0645\u064e\u0670\u0646\u0650 \u0627\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u0650 \u0642\u064f\u0644\u0652 \u064a\u064e\u0627 \u0623\u064e\u064a\u0651\u064f\u0647\u064e\u0627 \u0627\u0644\u0652\u0643\u064e\u0627\u0641\u0650\u0631\u064f\u0648\u0646\u064e",
+            "urlhusary": "data\/Husary_64kbps\/109001.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/109_1.png"
+        },
+        {
+            "indexayat": "6209",
+            "sourate": "109",
+            "numeroaya": "2",
+            "verset": "\u0644\u064e\u0627 \u0623\u064e\u0639\u0652\u0628\u064f\u062f\u064f \u0645\u064e\u0627 \u062a\u064e\u0639\u0652\u0628\u064f\u062f\u064f\u0648\u0646\u064e",
+            "urlhusary": "data\/Husary_64kbps\/109002.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/109_2.png"
+        },
+        {
+            "indexayat": "6210",
+            "sourate": "109",
+            "numeroaya": "3",
+            "verset": "\u0648\u064e\u0644\u064e\u0627 \u0623\u064e\u0646\u062a\u064f\u0645\u0652 \u0639\u064e\u0627\u0628\u0650\u062f\u064f\u0648\u0646\u064e \u0645\u064e\u0627 \u0623\u064e\u0639\u0652\u0628\u064f\u062f\u064f",
+            "urlhusary": "data\/Husary_64kbps\/109003.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/109_3.png"
+        },
+        {
+            "indexayat": "6211",
+            "sourate": "109",
+            "numeroaya": "4",
+            "verset": "\u0648\u064e\u0644\u064e\u0627 \u0623\u064e\u0646\u064e\u0627 \u0639\u064e\u0627\u0628\u0650\u062f\u064c \u0645\u0651\u064e\u0627 \u0639\u064e\u0628\u064e\u062f\u062a\u0651\u064f\u0645\u0652",
+            "urlhusary": "data\/Husary_64kbps\/109004.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/109_4.png"
+        },
+        {
+            "indexayat": "6212",
+            "sourate": "109",
+            "numeroaya": "5",
+            "verset": "\u0648\u064e\u0644\u064e\u0627 \u0623\u064e\u0646\u062a\u064f\u0645\u0652 \u0639\u064e\u0627\u0628\u0650\u062f\u064f\u0648\u0646\u064e \u0645\u064e\u0627 \u0623\u064e\u0639\u0652\u0628\u064f\u062f\u064f",
+            "urlhusary": "data\/Husary_64kbps\/109005.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/109_5.png"
+        },
+        {
+            "indexayat": "6213",
+            "sourate": "109",
+            "numeroaya": "6",
+            "verset": "\u0644\u064e\u0643\u064f\u0645\u0652 \u062f\u0650\u064a\u0646\u064f\u0643\u064f\u0645\u0652 \u0648\u064e\u0644\u0650\u064a\u064e \u062f\u0650\u064a\u0646\u0650",
+            "urlhusary": "data\/Husary_64kbps\/109006.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/109_6.png"
+        }
+    ],
+    "FR": [
+        {
+            "indexayat": "6208",
+            "sourate": "109",
+            "numeroaya": "1",
+            "verset": "Dis: &laquo;O vous les infid&egrave;les!",
+            "urlhusary": "data\/Husary_64kbps\/109001.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/109_1.png"
+        },
+        {
+            "indexayat": "6209",
+            "sourate": "109",
+            "numeroaya": "2",
+            "verset": "Je n&apos;adore pas ce que vous adorez.",
+            "urlhusary": "data\/Husary_64kbps\/109002.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/109_2.png"
+        },
+        {
+            "indexayat": "6210",
+            "sourate": "109",
+            "numeroaya": "3",
+            "verset": "Et vous n&apos;&ecirc;tes pas adorateurs de ce que j&apos;adore.",
+            "urlhusary": "data\/Husary_64kbps\/109003.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/109_3.png"
+        },
+        {
+            "indexayat": "6211",
+            "sourate": "109",
+            "numeroaya": "4",
+            "verset": "Je ne suis pas adorateur de ce que vous adorez.",
+            "urlhusary": "data\/Husary_64kbps\/109004.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/109_4.png"
+        },
+        {
+            "indexayat": "6212",
+            "sourate": "109",
+            "numeroaya": "5",
+            "verset": "Et vous n&apos;&ecirc;tes pas adorateurs de ce que j&apos;adore.",
+            "urlhusary": "data\/Husary_64kbps\/109005.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/109_5.png"
+        },
+        {
+            "indexayat": "6213",
+            "sourate": "109",
+            "numeroaya": "6",
+            "verset": "A vous votre religion, et &agrave; moi ma religion&raquo;.",
+            "urlhusary": "data\/Husary_64kbps\/109006.mp3",
+            "imghigh": "api\/hadith\/ayatimages\/high\/109_6.png"
+        }
+    ],
+    "count": 6
+}
